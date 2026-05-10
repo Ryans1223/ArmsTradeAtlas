@@ -1,0 +1,106 @@
+{
+  "USSR": {
+    "iso3": "SUN",
+    "displayName": "Soviet Union",
+    "successorStates": ["RUS", "UKR", "BLR", "KAZ", "UZB", "ARM", "AZE", "GEO", "KGZ", "MDA", "TJK", "TKM", "LTU", "LVA", "EST"]
+  },
+  "Soviet Union": {
+    "iso3": "SUN",
+    "displayName": "Soviet Union",
+    "successorStates": ["RUS", "UKR", "BLR", "KAZ", "UZB", "ARM", "AZE", "GEO", "KGZ", "MDA", "TJK", "TKM", "LTU", "LVA", "EST"]
+  },
+  "Yugoslavia": {
+    "iso3": "YUG",
+    "displayName": "Yugoslavia",
+    "successorStates": ["SVN", "HRV", "BIH", "SRB", "MKD", "MNE", "XKX"]
+  },
+  "Czechoslovakia": {
+    "iso3": "CSK",
+    "displayName": "Czechoslovakia",
+    "successorStates": ["CZE", "SVK"]
+  },
+  "East Germany": {
+    "iso3": "DDR",
+    "displayName": "East Germany",
+    "successorStates": ["DEU"]
+  },
+  "West Germany": {
+    "iso3": "DEU",
+    "displayName": "West Germany / Germany",
+    "successorStates": ["DEU"]
+  },
+  "German DR": {
+    "iso3": "DDR",
+    "displayName": "East Germany",
+    "successorStates": ["DEU"]
+  },
+  "South Vietnam": {
+    "iso3": "VNM",
+    "displayName": "South Vietnam",
+    "successorStates": ["VNM"]
+  },
+  "North Vietnam": {
+    "iso3": "VNM",
+    "displayName": "North Vietnam",
+    "successorStates": ["VNM"]
+  },
+  "North Yemen": {
+    "iso3": "YEM",
+    "displayName": "North Yemen",
+    "successorStates": ["YEM"]
+  },
+  "South Yemen": {
+    "iso3": "YEM",
+    "displayName": "South Yemen",
+    "successorStates": ["YEM"]
+  },
+  "Taiwan": {
+    "iso3": "TWN",
+    "displayName": "Taiwan"
+  },
+  "Serbia and Montenegro": {
+    "iso3": "SCG",
+    "displayName": "Serbia and Montenegro",
+    "successorStates": ["SRB", "MNE"]
+  },
+  "Kosovo": {
+    "iso3": "XKX",
+    "displayName": "Kosovo"
+  },
+  "Palestine": {
+    "iso3": "PSE",
+    "displayName": "Palestinian Territories"
+  },
+  "Palestina": {
+    "iso3": "PSE",
+    "displayName": "Palestinian Territories"
+  },
+  "UAE": {
+    "iso3": "ARE",
+    "displayName": "United Arab Emirates"
+  },
+  "United Arab Emirates": {
+    "iso3": "ARE",
+    "displayName": "United Arab Emirates"
+  },
+  "South Korea": {
+    "iso3": "KOR",
+    "displayName": "South Korea"
+  },
+  "North Korea": {
+    "iso3": "PRK",
+    "displayName": "North Korea"
+  },
+  "USA": {
+    "iso3": "USA",
+    "displayName": "United States"
+  },
+  "UK": {
+    "iso3": "GBR",
+    "displayName": "United Kingdom"
+  },
+  "United Kingdom": {
+    "iso3": "GBR",
+    "displayName": "United Kingdom"
+  }
+}

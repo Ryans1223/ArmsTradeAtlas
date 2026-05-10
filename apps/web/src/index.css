@@ -1,0 +1,87 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: dark;
+  }
+
+  html {
+    font-feature-settings: 'kern' 1, 'liga' 1, 'calt' 1;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  body {
+    @apply bg-ink text-parchment font-sans;
+  }
+
+  ::selection {
+    @apply bg-gold text-ink;
+  }
+
+  :focus-visible {
+    @apply outline-2 outline-gold outline-offset-2;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer components {
+  .editorial-body {
+    @apply font-serif text-body leading-relaxed text-parchment;
+  }
+
+  .nav-link {
+    @apply font-sans text-caption uppercase tracking-widest text-muted transition-colors duration-200 hover:text-parchment;
+  }
+
+  .nav-link-active {
+    @apply text-parchment border-b border-gold;
+  }
+}
+
+/* D3 map styles */
+.country-path {
+  stroke: #1a2f44;
+  stroke-width: 0.5;
+  cursor: pointer;
+  transition: fill 0.3s ease;
+}
+
+.country-path:hover,
+.country-path.hovered {
+  stroke: #C9A24B;
+  stroke-width: 1.5;
+}
+
+.country-path.selected {
+  stroke: #C9A24B;
+  stroke-width: 2;
+}
+
+.flow-arc {
+  fill: none;
+  stroke: #A0392E;
+  opacity: 0.6;
+  pointer-events: none;
+}
+
+.graticule {
+  fill: none;
+  stroke: #1a2f44;
+  stroke-width: 0.3;
+}
+
+.sphere {
+  fill: #0d2137;
+}

@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm --version)",
+      "PowerShell(pnpm --version 2>&1)"
+    ]
+  }
+}

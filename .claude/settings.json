@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx tsx *)",
+      "Bash(curl -s http://localhost:3001/api/health)",
+      "Bash(curl -s http://localhost:3001/api/case-studies)",
+      "Bash(curl -s http://localhost:3001/api/countries)",
+      "Bash(npx tsc *)",
+      "Bash(pnpm --filter @arms-atlas/web add -D topojson-specification)",
+      "Bash(pnpm --filter @arms-atlas/web add -D @types/topojson-specification)",
+      "Bash(timeout 15 npx vite build)",
+      "Bash(curl -s http://localhost:3001/api/case-studies/us-iran-shah)"
+    ]
+  }
+}

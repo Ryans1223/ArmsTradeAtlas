@@ -1,0 +1,20 @@
+{
+  "name": "@arms-atlas/data",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "ingest": "tsx src/ingest.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@types/papaparse": "^5.3.14",
+    "papaparse": "^5.4.1"
+  },
+  "devDependencies": {
+    "@arms-atlas/types": "workspace:*",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.21.0",
+    "typescript": "^5.5.0"
+  }
+}

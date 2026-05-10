@@ -1,0 +1,16 @@
+{
+  "lastUpdated": "2026-05-04T21:03:00.589Z",
+  "sipriAccessDate": "see README",
+  "yearCoverage": {
+    "from": 1954,
+    "to": 2024
+  },
+  "knownGaps": [
+    "Classified North Korean and Iranian transfers are largely absent from SIPRI records",
+    "Covert CIA/KGB arms transfers during Cold War proxy conflicts are not captured",
+    "Dual-use technology exports (electronics, propulsion systems) are not included",
+    "Financial military aid (FMF grants) without hardware transfers is not reflected in TIV"
+  ],
+  "totalFlowRecords": 119,
+  "citation": "Source: SIPRI Arms Transfers Database, accessed [date]. TIV values are a SIPRI-defined proxy for transfer volume; they are not equivalent to financial sales prices."
+}

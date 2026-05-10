@@ -1,0 +1,25 @@
+{
+  "name": "arms-trade-atlas",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "pnpm --parallel --filter @arms-atlas/api --filter @arms-atlas/web dev",
+    "build": "pnpm --filter @arms-atlas/types build && pnpm --filter @arms-atlas/api build && pnpm --filter @arms-atlas/web build",
+    "lint": "pnpm --recursive lint",
+    "test": "pnpm --recursive test",
+    "ingest": "pnpm --filter @arms-atlas/data exec tsx src/ingest.ts"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^8.0.0",
+    "@typescript-eslint/parser": "^8.0.0",
+    "eslint": "^9.0.0",
+    "typescript": "^5.5.0"
+  },
+  "engines": {
+    "node": ">=20.0.0",
+    "pnpm": ">=9.0.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": ["esbuild"]
+  }
+}

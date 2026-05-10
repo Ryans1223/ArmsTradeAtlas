@@ -1,0 +1,1073 @@
+[
+  {
+    "id": "USA-IRN-1965-aircraft-0",
+    "supplierIso3": "USA",
+    "recipientIso3": "IRN",
+    "year": 1965,
+    "tiv": 380,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-IRN-1966-aircraft-1",
+    "supplierIso3": "USA",
+    "recipientIso3": "IRN",
+    "year": 1966,
+    "tiv": 608,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-IRN-1968-aircraft-2",
+    "supplierIso3": "USA",
+    "recipientIso3": "IRN",
+    "year": 1968,
+    "tiv": 1216,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-IRN-1970-armored_vehicles-3",
+    "supplierIso3": "USA",
+    "recipientIso3": "IRN",
+    "year": 1970,
+    "tiv": 24,
+    "weaponCategory": "armored_vehicles",
+    "description": "Tank"
+  },
+  {
+    "id": "USA-IRN-1971-armored_vehicles-4",
+    "supplierIso3": "USA",
+    "recipientIso3": "IRN",
+    "year": 1971,
+    "tiv": 400,
+    "weaponCategory": "armored_vehicles",
+    "description": "Tank"
+  },
+  {
+    "id": "USA-IRN-1972-armored_vehicles-5",
+    "supplierIso3": "USA",
+    "recipientIso3": "IRN",
+    "year": 1972,
+    "tiv": 376,
+    "weaponCategory": "armored_vehicles",
+    "description": "Tank"
+  },
+  {
+    "id": "USA-IRN-1973-aircraft-6",
+    "supplierIso3": "USA",
+    "recipientIso3": "IRN",
+    "year": 1973,
+    "tiv": 1140,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-IRN-1974-aircraft-7",
+    "supplierIso3": "USA",
+    "recipientIso3": "IRN",
+    "year": 1974,
+    "tiv": 3040,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-IRN-1974-naval-8",
+    "supplierIso3": "USA",
+    "recipientIso3": "IRN",
+    "year": 1974,
+    "tiv": 160,
+    "weaponCategory": "naval",
+    "description": "Destroyer"
+  },
+  {
+    "id": "USA-IRN-1975-missiles-9",
+    "supplierIso3": "USA",
+    "recipientIso3": "IRN",
+    "year": 1975,
+    "tiv": 120,
+    "weaponCategory": "missiles",
+    "description": "Air defence missile system"
+  },
+  {
+    "id": "USA-IRN-1976-aircraft-10",
+    "supplierIso3": "USA",
+    "recipientIso3": "IRN",
+    "year": 1976,
+    "tiv": 3900,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-IRN-1976-aircraft-11",
+    "supplierIso3": "USA",
+    "recipientIso3": "IRN",
+    "year": 1976,
+    "tiv": 1200,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-IRN-1977-aircraft-12",
+    "supplierIso3": "USA",
+    "recipientIso3": "IRN",
+    "year": 1977,
+    "tiv": 3900,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-IRN-1977-armored_vehicles-13",
+    "supplierIso3": "USA",
+    "recipientIso3": "IRN",
+    "year": 1977,
+    "tiv": 500,
+    "weaponCategory": "armored_vehicles",
+    "description": "Tank"
+  },
+  {
+    "id": "USA-IRN-1977-naval-14",
+    "supplierIso3": "USA",
+    "recipientIso3": "IRN",
+    "year": 1977,
+    "tiv": 80,
+    "weaponCategory": "naval",
+    "description": "Frigate"
+  },
+  {
+    "id": "USA-IRN-1978-aircraft-15",
+    "supplierIso3": "USA",
+    "recipientIso3": "IRN",
+    "year": 1978,
+    "tiv": 3900,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "SUN-EGY-1955-aircraft-16",
+    "supplierIso3": "SUN",
+    "recipientIso3": "EGY",
+    "year": 1955,
+    "tiv": 200,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "SUN-EGY-1956-aircraft-17",
+    "supplierIso3": "SUN",
+    "recipientIso3": "EGY",
+    "year": 1956,
+    "tiv": 360,
+    "weaponCategory": "aircraft",
+    "description": "Bomber aircraft"
+  },
+  {
+    "id": "SUN-EGY-1956-aircraft-18",
+    "supplierIso3": "SUN",
+    "recipientIso3": "EGY",
+    "year": 1956,
+    "tiv": 200,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "SUN-EGY-1959-aircraft-19",
+    "supplierIso3": "SUN",
+    "recipientIso3": "EGY",
+    "year": 1959,
+    "tiv": 480,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "SUN-EGY-1962-aircraft-20",
+    "supplierIso3": "SUN",
+    "recipientIso3": "EGY",
+    "year": 1962,
+    "tiv": 480,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "SUN-EGY-1963-armored_vehicles-21",
+    "supplierIso3": "SUN",
+    "recipientIso3": "EGY",
+    "year": 1963,
+    "tiv": 150,
+    "weaponCategory": "armored_vehicles",
+    "description": "Tank"
+  },
+  {
+    "id": "SUN-EGY-1964-armored_vehicles-22",
+    "supplierIso3": "SUN",
+    "recipientIso3": "EGY",
+    "year": 1964,
+    "tiv": 300,
+    "weaponCategory": "armored_vehicles",
+    "description": "Tank"
+  },
+  {
+    "id": "SUN-EGY-1967-missiles-23",
+    "supplierIso3": "SUN",
+    "recipientIso3": "EGY",
+    "year": 1967,
+    "tiv": 200,
+    "weaponCategory": "missiles",
+    "description": "Air defence missile system"
+  },
+  {
+    "id": "SUN-EGY-1967-aircraft-24",
+    "supplierIso3": "SUN",
+    "recipientIso3": "EGY",
+    "year": 1967,
+    "tiv": 240,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "SUN-EGY-1968-aircraft-25",
+    "supplierIso3": "SUN",
+    "recipientIso3": "EGY",
+    "year": 1968,
+    "tiv": 1200,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "SUN-EGY-1968-armored_vehicles-26",
+    "supplierIso3": "SUN",
+    "recipientIso3": "EGY",
+    "year": 1968,
+    "tiv": 450,
+    "weaponCategory": "armored_vehicles",
+    "description": "Tank"
+  },
+  {
+    "id": "SUN-EGY-1970-armored_vehicles-27",
+    "supplierIso3": "SUN",
+    "recipientIso3": "EGY",
+    "year": 1970,
+    "tiv": 300,
+    "weaponCategory": "armored_vehicles",
+    "description": "Tank"
+  },
+  {
+    "id": "SUN-EGY-1970-missiles-28",
+    "supplierIso3": "SUN",
+    "recipientIso3": "EGY",
+    "year": 1970,
+    "tiv": 180,
+    "weaponCategory": "missiles",
+    "description": "Air defence missile system"
+  },
+  {
+    "id": "SUN-EGY-1971-armored_vehicles-29",
+    "supplierIso3": "SUN",
+    "recipientIso3": "EGY",
+    "year": 1971,
+    "tiv": 400,
+    "weaponCategory": "armored_vehicles",
+    "description": "Tank"
+  },
+  {
+    "id": "SUN-EGY-1972-aircraft-30",
+    "supplierIso3": "SUN",
+    "recipientIso3": "EGY",
+    "year": 1972,
+    "tiv": 480,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "SUN-EGY-1972-armored_vehicles-31",
+    "supplierIso3": "SUN",
+    "recipientIso3": "EGY",
+    "year": 1972,
+    "tiv": 300,
+    "weaponCategory": "armored_vehicles",
+    "description": "Tank"
+  },
+  {
+    "id": "SUN-EGY-1973-aircraft-32",
+    "supplierIso3": "SUN",
+    "recipientIso3": "EGY",
+    "year": 1973,
+    "tiv": 400,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "SUN-EGY-1973-armored_vehicles-33",
+    "supplierIso3": "SUN",
+    "recipientIso3": "EGY",
+    "year": 1973,
+    "tiv": 800,
+    "weaponCategory": "armored_vehicles",
+    "description": "Tank"
+  },
+  {
+    "id": "SUN-EGY-1973-missiles-34",
+    "supplierIso3": "SUN",
+    "recipientIso3": "EGY",
+    "year": 1973,
+    "tiv": 100,
+    "weaponCategory": "missiles",
+    "description": "Anti-ship missile"
+  },
+  {
+    "id": "SUN-SYR-1956-aircraft-35",
+    "supplierIso3": "SUN",
+    "recipientIso3": "SYR",
+    "year": 1956,
+    "tiv": 300,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "SUN-SYR-1960-aircraft-36",
+    "supplierIso3": "SUN",
+    "recipientIso3": "SYR",
+    "year": 1960,
+    "tiv": 320,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "SUN-SYR-1965-aircraft-37",
+    "supplierIso3": "SUN",
+    "recipientIso3": "SYR",
+    "year": 1965,
+    "tiv": 640,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "SUN-SYR-1966-armored_vehicles-38",
+    "supplierIso3": "SUN",
+    "recipientIso3": "SYR",
+    "year": 1966,
+    "tiv": 300,
+    "weaponCategory": "armored_vehicles",
+    "description": "Tank"
+  },
+  {
+    "id": "SUN-SYR-1967-armored_vehicles-39",
+    "supplierIso3": "SUN",
+    "recipientIso3": "SYR",
+    "year": 1967,
+    "tiv": 450,
+    "weaponCategory": "armored_vehicles",
+    "description": "Tank"
+  },
+  {
+    "id": "SUN-SYR-1968-aircraft-40",
+    "supplierIso3": "SUN",
+    "recipientIso3": "SYR",
+    "year": 1968,
+    "tiv": 240,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "SUN-SYR-1970-missiles-41",
+    "supplierIso3": "SUN",
+    "recipientIso3": "SYR",
+    "year": 1970,
+    "tiv": 200,
+    "weaponCategory": "missiles",
+    "description": "Air defence missile system"
+  },
+  {
+    "id": "SUN-SYR-1972-armored_vehicles-42",
+    "supplierIso3": "SUN",
+    "recipientIso3": "SYR",
+    "year": 1972,
+    "tiv": 400,
+    "weaponCategory": "armored_vehicles",
+    "description": "Tank"
+  },
+  {
+    "id": "SUN-SYR-1973-aircraft-43",
+    "supplierIso3": "SUN",
+    "recipientIso3": "SYR",
+    "year": 1973,
+    "tiv": 390,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "SUN-SYR-1973-armored_vehicles-44",
+    "supplierIso3": "SUN",
+    "recipientIso3": "SYR",
+    "year": 1973,
+    "tiv": 800,
+    "weaponCategory": "armored_vehicles",
+    "description": "Tank"
+  },
+  {
+    "id": "SUN-SYR-1974-aircraft-45",
+    "supplierIso3": "SUN",
+    "recipientIso3": "SYR",
+    "year": 1974,
+    "tiv": 650,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "SUN-SYR-1977-aircraft-46",
+    "supplierIso3": "SUN",
+    "recipientIso3": "SYR",
+    "year": 1977,
+    "tiv": 936,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "SUN-SYR-1978-armored_vehicles-47",
+    "supplierIso3": "SUN",
+    "recipientIso3": "SYR",
+    "year": 1978,
+    "tiv": 500,
+    "weaponCategory": "armored_vehicles",
+    "description": "Tank"
+  },
+  {
+    "id": "SUN-SYR-1982-aircraft-48",
+    "supplierIso3": "SUN",
+    "recipientIso3": "SYR",
+    "year": 1982,
+    "tiv": 780,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "SUN-SYR-1986-aircraft-49",
+    "supplierIso3": "SUN",
+    "recipientIso3": "SYR",
+    "year": 1986,
+    "tiv": 1500,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "SUN-SYR-1988-armored_vehicles-50",
+    "supplierIso3": "SUN",
+    "recipientIso3": "SYR",
+    "year": 1988,
+    "tiv": 750,
+    "weaponCategory": "armored_vehicles",
+    "description": "Tank"
+  },
+  {
+    "id": "SUN-AGO-1975-armored_vehicles-51",
+    "supplierIso3": "SUN",
+    "recipientIso3": "AGO",
+    "year": 1975,
+    "tiv": 150,
+    "weaponCategory": "armored_vehicles",
+    "description": "Tank"
+  },
+  {
+    "id": "SUN-AGO-1975-aircraft-52",
+    "supplierIso3": "SUN",
+    "recipientIso3": "AGO",
+    "year": 1975,
+    "tiv": 300,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "SUN-AGO-1976-armored_vehicles-53",
+    "supplierIso3": "SUN",
+    "recipientIso3": "AGO",
+    "year": 1976,
+    "tiv": 225,
+    "weaponCategory": "armored_vehicles",
+    "description": "Tank"
+  },
+  {
+    "id": "SUN-AGO-1977-aircraft-54",
+    "supplierIso3": "SUN",
+    "recipientIso3": "AGO",
+    "year": 1977,
+    "tiv": 480,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "SUN-AGO-1978-armored_vehicles-55",
+    "supplierIso3": "SUN",
+    "recipientIso3": "AGO",
+    "year": 1978,
+    "tiv": 300,
+    "weaponCategory": "armored_vehicles",
+    "description": "Tank"
+  },
+  {
+    "id": "SUN-AGO-1982-armored_vehicles-56",
+    "supplierIso3": "SUN",
+    "recipientIso3": "AGO",
+    "year": 1982,
+    "tiv": 200,
+    "weaponCategory": "armored_vehicles",
+    "description": "Tank"
+  },
+  {
+    "id": "SUN-AGO-1984-armored_vehicles-57",
+    "supplierIso3": "SUN",
+    "recipientIso3": "AGO",
+    "year": 1984,
+    "tiv": 375,
+    "weaponCategory": "armored_vehicles",
+    "description": "Tank"
+  },
+  {
+    "id": "SUN-AGO-1986-aircraft-58",
+    "supplierIso3": "SUN",
+    "recipientIso3": "AGO",
+    "year": 1986,
+    "tiv": 520,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "CUB-AGO-1975-artillery-59",
+    "supplierIso3": "CUB",
+    "recipientIso3": "AGO",
+    "year": 1975,
+    "tiv": 300,
+    "weaponCategory": "artillery",
+    "description": "Artillery"
+  },
+  {
+    "id": "CUB-AGO-1976-armored_vehicles-60",
+    "supplierIso3": "CUB",
+    "recipientIso3": "AGO",
+    "year": 1976,
+    "tiv": 50,
+    "weaponCategory": "armored_vehicles",
+    "description": "Armoured vehicle"
+  },
+  {
+    "id": "CUB-AGO-1977-missiles-61",
+    "supplierIso3": "CUB",
+    "recipientIso3": "AGO",
+    "year": 1977,
+    "tiv": 25,
+    "weaponCategory": "missiles",
+    "description": "Air defence missile system"
+  },
+  {
+    "id": "CUB-AGO-1980-artillery-62",
+    "supplierIso3": "CUB",
+    "recipientIso3": "AGO",
+    "year": 1980,
+    "tiv": 40,
+    "weaponCategory": "artillery",
+    "description": "Artillery"
+  },
+  {
+    "id": "USA-AGO-1986-missiles-63",
+    "supplierIso3": "USA",
+    "recipientIso3": "AGO",
+    "year": 1986,
+    "tiv": 45,
+    "weaponCategory": "missiles",
+    "description": "Anti-tank missile"
+  },
+  {
+    "id": "USA-AGO-1987-missiles-64",
+    "supplierIso3": "USA",
+    "recipientIso3": "AGO",
+    "year": 1987,
+    "tiv": 90,
+    "weaponCategory": "missiles",
+    "description": "Anti-tank missile"
+  },
+  {
+    "id": "USA-AGO-1988-missiles-65",
+    "supplierIso3": "USA",
+    "recipientIso3": "AGO",
+    "year": 1988,
+    "tiv": 100,
+    "weaponCategory": "missiles",
+    "description": "Anti-tank missile"
+  },
+  {
+    "id": "USA-UKR-2022-missiles-66",
+    "supplierIso3": "USA",
+    "recipientIso3": "UKR",
+    "year": 2022,
+    "tiv": 100,
+    "weaponCategory": "missiles",
+    "description": "Anti-tank missile"
+  },
+  {
+    "id": "USA-UKR-2022-missiles-67",
+    "supplierIso3": "USA",
+    "recipientIso3": "UKR",
+    "year": 2022,
+    "tiv": 450,
+    "weaponCategory": "missiles",
+    "description": "Air defence missile system"
+  },
+  {
+    "id": "USA-UKR-2022-artillery-68",
+    "supplierIso3": "USA",
+    "recipientIso3": "UKR",
+    "year": 2022,
+    "tiv": 180,
+    "weaponCategory": "artillery",
+    "description": "Howitzer"
+  },
+  {
+    "id": "USA-UKR-2022-artillery-69",
+    "supplierIso3": "USA",
+    "recipientIso3": "UKR",
+    "year": 2022,
+    "tiv": 144,
+    "weaponCategory": "artillery",
+    "description": "Multiple rocket launcher"
+  },
+  {
+    "id": "USA-UKR-2022-armored_vehicles-70",
+    "supplierIso3": "USA",
+    "recipientIso3": "UKR",
+    "year": 2022,
+    "tiv": 200,
+    "weaponCategory": "armored_vehicles",
+    "description": "Armoured vehicle"
+  },
+  {
+    "id": "USA-UKR-2023-armored_vehicles-71",
+    "supplierIso3": "USA",
+    "recipientIso3": "UKR",
+    "year": 2023,
+    "tiv": 372,
+    "weaponCategory": "armored_vehicles",
+    "description": "Tank"
+  },
+  {
+    "id": "USA-UKR-2023-armored_vehicles-72",
+    "supplierIso3": "USA",
+    "recipientIso3": "UKR",
+    "year": 2023,
+    "tiv": 180,
+    "weaponCategory": "armored_vehicles",
+    "description": "Infantry fighting vehicle"
+  },
+  {
+    "id": "USA-UKR-2023-missiles-73",
+    "supplierIso3": "USA",
+    "recipientIso3": "UKR",
+    "year": 2023,
+    "tiv": 200,
+    "weaponCategory": "missiles",
+    "description": "Air defence missile system"
+  },
+  {
+    "id": "USA-UKR-2023-missiles-74",
+    "supplierIso3": "USA",
+    "recipientIso3": "UKR",
+    "year": 2023,
+    "tiv": 240,
+    "weaponCategory": "missiles",
+    "description": "Air defence missile system"
+  },
+  {
+    "id": "USA-UKR-2024-aircraft-75",
+    "supplierIso3": "USA",
+    "recipientIso3": "UKR",
+    "year": 2024,
+    "tiv": 915,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-UKR-2024-missiles-76",
+    "supplierIso3": "USA",
+    "recipientIso3": "UKR",
+    "year": 2024,
+    "tiv": 800,
+    "weaponCategory": "missiles",
+    "description": "Multiple rocket launcher"
+  },
+  {
+    "id": "DEU-UKR-2023-armored_vehicles-77",
+    "supplierIso3": "DEU",
+    "recipientIso3": "UKR",
+    "year": 2023,
+    "tiv": 140,
+    "weaponCategory": "armored_vehicles",
+    "description": "Tank"
+  },
+  {
+    "id": "DEU-UKR-2023-armored_vehicles-78",
+    "supplierIso3": "DEU",
+    "recipientIso3": "UKR",
+    "year": 2023,
+    "tiv": 216,
+    "weaponCategory": "armored_vehicles",
+    "description": "Tank"
+  },
+  {
+    "id": "GBR-UKR-2023-armored_vehicles-79",
+    "supplierIso3": "GBR",
+    "recipientIso3": "UKR",
+    "year": 2023,
+    "tiv": 210,
+    "weaponCategory": "armored_vehicles",
+    "description": "Tank"
+  },
+  {
+    "id": "USA-ISR-1967-aircraft-80",
+    "supplierIso3": "USA",
+    "recipientIso3": "ISR",
+    "year": 1967,
+    "tiv": 450,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-ISR-1969-aircraft-81",
+    "supplierIso3": "USA",
+    "recipientIso3": "ISR",
+    "year": 1969,
+    "tiv": 1900,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-ISR-1970-aircraft-82",
+    "supplierIso3": "USA",
+    "recipientIso3": "ISR",
+    "year": 1970,
+    "tiv": 450,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-ISR-1971-aircraft-83",
+    "supplierIso3": "USA",
+    "recipientIso3": "ISR",
+    "year": 1971,
+    "tiv": 456,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-ISR-1973-aircraft-84",
+    "supplierIso3": "USA",
+    "recipientIso3": "ISR",
+    "year": 1973,
+    "tiv": 1368,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-ISR-1973-aircraft-85",
+    "supplierIso3": "USA",
+    "recipientIso3": "ISR",
+    "year": 1973,
+    "tiv": 324,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-ISR-1976-aircraft-86",
+    "supplierIso3": "USA",
+    "recipientIso3": "ISR",
+    "year": 1976,
+    "tiv": 1800,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-ISR-1978-aircraft-87",
+    "supplierIso3": "USA",
+    "recipientIso3": "ISR",
+    "year": 1978,
+    "tiv": 1000,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-ISR-1980-aircraft-88",
+    "supplierIso3": "USA",
+    "recipientIso3": "ISR",
+    "year": 1980,
+    "tiv": 1800,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-ISR-1983-aircraft-89",
+    "supplierIso3": "USA",
+    "recipientIso3": "ISR",
+    "year": 1983,
+    "tiv": 1800,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-ISR-1994-aircraft-90",
+    "supplierIso3": "USA",
+    "recipientIso3": "ISR",
+    "year": 1994,
+    "tiv": 1000,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-ISR-1999-aircraft-91",
+    "supplierIso3": "USA",
+    "recipientIso3": "ISR",
+    "year": 1999,
+    "tiv": 1200,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-ISR-2016-aircraft-92",
+    "supplierIso3": "USA",
+    "recipientIso3": "ISR",
+    "year": 2016,
+    "tiv": 4500,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-ISR-2023-missiles-93",
+    "supplierIso3": "USA",
+    "recipientIso3": "ISR",
+    "year": 2023,
+    "tiv": 10,
+    "weaponCategory": "missiles",
+    "description": "Guided bomb"
+  },
+  {
+    "id": "USA-ISR-2023-artillery-94",
+    "supplierIso3": "USA",
+    "recipientIso3": "ISR",
+    "year": 2023,
+    "tiv": 140,
+    "weaponCategory": "artillery",
+    "description": "Artillery shell"
+  },
+  {
+    "id": "USA-ISR-2024-missiles-95",
+    "supplierIso3": "USA",
+    "recipientIso3": "ISR",
+    "year": 2024,
+    "tiv": 180,
+    "weaponCategory": "missiles",
+    "description": "Guided bomb"
+  },
+  {
+    "id": "FRA-ISR-1956-aircraft-96",
+    "supplierIso3": "FRA",
+    "recipientIso3": "ISR",
+    "year": 1956,
+    "tiv": 240,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "FRA-ISR-1958-aircraft-97",
+    "supplierIso3": "FRA",
+    "recipientIso3": "ISR",
+    "year": 1958,
+    "tiv": 900,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "FRA-ISR-1962-aircraft-98",
+    "supplierIso3": "FRA",
+    "recipientIso3": "ISR",
+    "year": 1962,
+    "tiv": 1080,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-PAK-1954-aircraft-99",
+    "supplierIso3": "USA",
+    "recipientIso3": "PAK",
+    "year": 1954,
+    "tiv": 480,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-PAK-1960-aircraft-100",
+    "supplierIso3": "USA",
+    "recipientIso3": "PAK",
+    "year": 1960,
+    "tiv": 720,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "SUN-IND-1962-aircraft-101",
+    "supplierIso3": "SUN",
+    "recipientIso3": "IND",
+    "year": 1962,
+    "tiv": 480,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "SUN-IND-1965-aircraft-102",
+    "supplierIso3": "SUN",
+    "recipientIso3": "IND",
+    "year": 1965,
+    "tiv": 960,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "SUN-IND-1968-armored_vehicles-103",
+    "supplierIso3": "SUN",
+    "recipientIso3": "IND",
+    "year": 1968,
+    "tiv": 300,
+    "weaponCategory": "armored_vehicles",
+    "description": "Tank"
+  },
+  {
+    "id": "USA-KOR-1965-aircraft-104",
+    "supplierIso3": "USA",
+    "recipientIso3": "KOR",
+    "year": 1965,
+    "tiv": 480,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-KOR-1975-aircraft-105",
+    "supplierIso3": "USA",
+    "recipientIso3": "KOR",
+    "year": 1975,
+    "tiv": 2280,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "SUN-VNM-1965-aircraft-106",
+    "supplierIso3": "SUN",
+    "recipientIso3": "VNM",
+    "year": 1965,
+    "tiv": 400,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "SUN-VNM-1968-missiles-107",
+    "supplierIso3": "SUN",
+    "recipientIso3": "VNM",
+    "year": 1968,
+    "tiv": 100,
+    "weaponCategory": "missiles",
+    "description": "Air defence missile system"
+  },
+  {
+    "id": "USA-SAU-1973-aircraft-108",
+    "supplierIso3": "USA",
+    "recipientIso3": "SAU",
+    "year": 1973,
+    "tiv": 360,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-SAU-1978-aircraft-109",
+    "supplierIso3": "USA",
+    "recipientIso3": "SAU",
+    "year": 1978,
+    "tiv": 2400,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-SAU-1992-aircraft-110",
+    "supplierIso3": "USA",
+    "recipientIso3": "SAU",
+    "year": 1992,
+    "tiv": 2880,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "USA-SAU-2012-aircraft-111",
+    "supplierIso3": "USA",
+    "recipientIso3": "SAU",
+    "year": 2012,
+    "tiv": 3360,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "FRA-SAU-2014-aircraft-112",
+    "supplierIso3": "FRA",
+    "recipientIso3": "SAU",
+    "year": 2014,
+    "tiv": 3750,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "GBR-SAU-2007-aircraft-113",
+    "supplierIso3": "GBR",
+    "recipientIso3": "SAU",
+    "year": 2007,
+    "tiv": 5400,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "RUS-CHN-1992-aircraft-114",
+    "supplierIso3": "RUS",
+    "recipientIso3": "CHN",
+    "year": 1992,
+    "tiv": 912,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "RUS-CHN-1996-aircraft-115",
+    "supplierIso3": "RUS",
+    "recipientIso3": "CHN",
+    "year": 1996,
+    "tiv": 1140,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "RUS-CHN-2000-aircraft-116",
+    "supplierIso3": "RUS",
+    "recipientIso3": "CHN",
+    "year": 2000,
+    "tiv": 1920,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "RUS-IND-2004-aircraft-117",
+    "supplierIso3": "RUS",
+    "recipientIso3": "IND",
+    "year": 2004,
+    "tiv": 1920,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  },
+  {
+    "id": "RUS-IND-2016-aircraft-118",
+    "supplierIso3": "RUS",
+    "recipientIso3": "IND",
+    "year": 2016,
+    "tiv": 1728,
+    "weaponCategory": "aircraft",
+    "description": "Fighter aircraft"
+  }
+]

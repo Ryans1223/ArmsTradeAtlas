@@ -1,0 +1,950 @@
+[
+  {
+    "iso3": "USA",
+    "year": 1965,
+    "totalExports": 860,
+    "totalImports": 0
+  },
+  {
+    "iso3": "IRN",
+    "year": 1965,
+    "totalExports": 0,
+    "totalImports": 380
+  },
+  {
+    "iso3": "USA",
+    "year": 1966,
+    "totalExports": 608,
+    "totalImports": 0
+  },
+  {
+    "iso3": "IRN",
+    "year": 1966,
+    "totalExports": 0,
+    "totalImports": 608
+  },
+  {
+    "iso3": "USA",
+    "year": 1968,
+    "totalExports": 1216,
+    "totalImports": 0
+  },
+  {
+    "iso3": "IRN",
+    "year": 1968,
+    "totalExports": 0,
+    "totalImports": 1216
+  },
+  {
+    "iso3": "USA",
+    "year": 1970,
+    "totalExports": 474,
+    "totalImports": 0
+  },
+  {
+    "iso3": "IRN",
+    "year": 1970,
+    "totalExports": 0,
+    "totalImports": 24
+  },
+  {
+    "iso3": "USA",
+    "year": 1971,
+    "totalExports": 856,
+    "totalImports": 0
+  },
+  {
+    "iso3": "IRN",
+    "year": 1971,
+    "totalExports": 0,
+    "totalImports": 400
+  },
+  {
+    "iso3": "USA",
+    "year": 1972,
+    "totalExports": 376,
+    "totalImports": 0
+  },
+  {
+    "iso3": "IRN",
+    "year": 1972,
+    "totalExports": 0,
+    "totalImports": 376
+  },
+  {
+    "iso3": "USA",
+    "year": 1973,
+    "totalExports": 3192,
+    "totalImports": 0
+  },
+  {
+    "iso3": "IRN",
+    "year": 1973,
+    "totalExports": 0,
+    "totalImports": 1140
+  },
+  {
+    "iso3": "USA",
+    "year": 1974,
+    "totalExports": 3200,
+    "totalImports": 0
+  },
+  {
+    "iso3": "IRN",
+    "year": 1974,
+    "totalExports": 0,
+    "totalImports": 3200
+  },
+  {
+    "iso3": "USA",
+    "year": 1975,
+    "totalExports": 2400,
+    "totalImports": 0
+  },
+  {
+    "iso3": "IRN",
+    "year": 1975,
+    "totalExports": 0,
+    "totalImports": 120
+  },
+  {
+    "iso3": "USA",
+    "year": 1976,
+    "totalExports": 6900,
+    "totalImports": 0
+  },
+  {
+    "iso3": "IRN",
+    "year": 1976,
+    "totalExports": 0,
+    "totalImports": 5100
+  },
+  {
+    "iso3": "USA",
+    "year": 1977,
+    "totalExports": 4480,
+    "totalImports": 0
+  },
+  {
+    "iso3": "IRN",
+    "year": 1977,
+    "totalExports": 0,
+    "totalImports": 4480
+  },
+  {
+    "iso3": "USA",
+    "year": 1978,
+    "totalExports": 7300,
+    "totalImports": 0
+  },
+  {
+    "iso3": "IRN",
+    "year": 1978,
+    "totalExports": 0,
+    "totalImports": 3900
+  },
+  {
+    "iso3": "SUN",
+    "year": 1955,
+    "totalExports": 200,
+    "totalImports": 0
+  },
+  {
+    "iso3": "EGY",
+    "year": 1955,
+    "totalExports": 0,
+    "totalImports": 200
+  },
+  {
+    "iso3": "SUN",
+    "year": 1956,
+    "totalExports": 860,
+    "totalImports": 0
+  },
+  {
+    "iso3": "EGY",
+    "year": 1956,
+    "totalExports": 0,
+    "totalImports": 560
+  },
+  {
+    "iso3": "SUN",
+    "year": 1959,
+    "totalExports": 480,
+    "totalImports": 0
+  },
+  {
+    "iso3": "EGY",
+    "year": 1959,
+    "totalExports": 0,
+    "totalImports": 480
+  },
+  {
+    "iso3": "SUN",
+    "year": 1962,
+    "totalExports": 960,
+    "totalImports": 0
+  },
+  {
+    "iso3": "EGY",
+    "year": 1962,
+    "totalExports": 0,
+    "totalImports": 480
+  },
+  {
+    "iso3": "SUN",
+    "year": 1963,
+    "totalExports": 150,
+    "totalImports": 0
+  },
+  {
+    "iso3": "EGY",
+    "year": 1963,
+    "totalExports": 0,
+    "totalImports": 150
+  },
+  {
+    "iso3": "SUN",
+    "year": 1964,
+    "totalExports": 300,
+    "totalImports": 0
+  },
+  {
+    "iso3": "EGY",
+    "year": 1964,
+    "totalExports": 0,
+    "totalImports": 300
+  },
+  {
+    "iso3": "SUN",
+    "year": 1967,
+    "totalExports": 890,
+    "totalImports": 0
+  },
+  {
+    "iso3": "EGY",
+    "year": 1967,
+    "totalExports": 0,
+    "totalImports": 440
+  },
+  {
+    "iso3": "SUN",
+    "year": 1968,
+    "totalExports": 2290,
+    "totalImports": 0
+  },
+  {
+    "iso3": "EGY",
+    "year": 1968,
+    "totalExports": 0,
+    "totalImports": 1650
+  },
+  {
+    "iso3": "SUN",
+    "year": 1970,
+    "totalExports": 680,
+    "totalImports": 0
+  },
+  {
+    "iso3": "EGY",
+    "year": 1970,
+    "totalExports": 0,
+    "totalImports": 480
+  },
+  {
+    "iso3": "SUN",
+    "year": 1971,
+    "totalExports": 400,
+    "totalImports": 0
+  },
+  {
+    "iso3": "EGY",
+    "year": 1971,
+    "totalExports": 0,
+    "totalImports": 400
+  },
+  {
+    "iso3": "SUN",
+    "year": 1972,
+    "totalExports": 1180,
+    "totalImports": 0
+  },
+  {
+    "iso3": "EGY",
+    "year": 1972,
+    "totalExports": 0,
+    "totalImports": 780
+  },
+  {
+    "iso3": "SUN",
+    "year": 1973,
+    "totalExports": 2490,
+    "totalImports": 0
+  },
+  {
+    "iso3": "EGY",
+    "year": 1973,
+    "totalExports": 0,
+    "totalImports": 1300
+  },
+  {
+    "iso3": "SYR",
+    "year": 1956,
+    "totalExports": 0,
+    "totalImports": 300
+  },
+  {
+    "iso3": "SUN",
+    "year": 1960,
+    "totalExports": 320,
+    "totalImports": 0
+  },
+  {
+    "iso3": "SYR",
+    "year": 1960,
+    "totalExports": 0,
+    "totalImports": 320
+  },
+  {
+    "iso3": "SUN",
+    "year": 1965,
+    "totalExports": 2000,
+    "totalImports": 0
+  },
+  {
+    "iso3": "SYR",
+    "year": 1965,
+    "totalExports": 0,
+    "totalImports": 640
+  },
+  {
+    "iso3": "SUN",
+    "year": 1966,
+    "totalExports": 300,
+    "totalImports": 0
+  },
+  {
+    "iso3": "SYR",
+    "year": 1966,
+    "totalExports": 0,
+    "totalImports": 300
+  },
+  {
+    "iso3": "SYR",
+    "year": 1967,
+    "totalExports": 0,
+    "totalImports": 450
+  },
+  {
+    "iso3": "SYR",
+    "year": 1968,
+    "totalExports": 0,
+    "totalImports": 240
+  },
+  {
+    "iso3": "SYR",
+    "year": 1970,
+    "totalExports": 0,
+    "totalImports": 200
+  },
+  {
+    "iso3": "SYR",
+    "year": 1972,
+    "totalExports": 0,
+    "totalImports": 400
+  },
+  {
+    "iso3": "SYR",
+    "year": 1973,
+    "totalExports": 0,
+    "totalImports": 1190
+  },
+  {
+    "iso3": "SUN",
+    "year": 1974,
+    "totalExports": 650,
+    "totalImports": 0
+  },
+  {
+    "iso3": "SYR",
+    "year": 1974,
+    "totalExports": 0,
+    "totalImports": 650
+  },
+  {
+    "iso3": "SUN",
+    "year": 1977,
+    "totalExports": 1416,
+    "totalImports": 0
+  },
+  {
+    "iso3": "SYR",
+    "year": 1977,
+    "totalExports": 0,
+    "totalImports": 936
+  },
+  {
+    "iso3": "SUN",
+    "year": 1978,
+    "totalExports": 800,
+    "totalImports": 0
+  },
+  {
+    "iso3": "SYR",
+    "year": 1978,
+    "totalExports": 0,
+    "totalImports": 500
+  },
+  {
+    "iso3": "SUN",
+    "year": 1982,
+    "totalExports": 980,
+    "totalImports": 0
+  },
+  {
+    "iso3": "SYR",
+    "year": 1982,
+    "totalExports": 0,
+    "totalImports": 780
+  },
+  {
+    "iso3": "SUN",
+    "year": 1986,
+    "totalExports": 2020,
+    "totalImports": 0
+  },
+  {
+    "iso3": "SYR",
+    "year": 1986,
+    "totalExports": 0,
+    "totalImports": 1500
+  },
+  {
+    "iso3": "SUN",
+    "year": 1988,
+    "totalExports": 750,
+    "totalImports": 0
+  },
+  {
+    "iso3": "SYR",
+    "year": 1988,
+    "totalExports": 0,
+    "totalImports": 750
+  },
+  {
+    "iso3": "SUN",
+    "year": 1975,
+    "totalExports": 450,
+    "totalImports": 0
+  },
+  {
+    "iso3": "AGO",
+    "year": 1975,
+    "totalExports": 0,
+    "totalImports": 750
+  },
+  {
+    "iso3": "SUN",
+    "year": 1976,
+    "totalExports": 225,
+    "totalImports": 0
+  },
+  {
+    "iso3": "AGO",
+    "year": 1976,
+    "totalExports": 0,
+    "totalImports": 275
+  },
+  {
+    "iso3": "AGO",
+    "year": 1977,
+    "totalExports": 0,
+    "totalImports": 505
+  },
+  {
+    "iso3": "AGO",
+    "year": 1978,
+    "totalExports": 0,
+    "totalImports": 300
+  },
+  {
+    "iso3": "AGO",
+    "year": 1982,
+    "totalExports": 0,
+    "totalImports": 200
+  },
+  {
+    "iso3": "SUN",
+    "year": 1984,
+    "totalExports": 375,
+    "totalImports": 0
+  },
+  {
+    "iso3": "AGO",
+    "year": 1984,
+    "totalExports": 0,
+    "totalImports": 375
+  },
+  {
+    "iso3": "AGO",
+    "year": 1986,
+    "totalExports": 0,
+    "totalImports": 565
+  },
+  {
+    "iso3": "CUB",
+    "year": 1975,
+    "totalExports": 300,
+    "totalImports": 0
+  },
+  {
+    "iso3": "CUB",
+    "year": 1976,
+    "totalExports": 50,
+    "totalImports": 0
+  },
+  {
+    "iso3": "CUB",
+    "year": 1977,
+    "totalExports": 25,
+    "totalImports": 0
+  },
+  {
+    "iso3": "CUB",
+    "year": 1980,
+    "totalExports": 40,
+    "totalImports": 0
+  },
+  {
+    "iso3": "AGO",
+    "year": 1980,
+    "totalExports": 0,
+    "totalImports": 40
+  },
+  {
+    "iso3": "USA",
+    "year": 1986,
+    "totalExports": 45,
+    "totalImports": 0
+  },
+  {
+    "iso3": "USA",
+    "year": 1987,
+    "totalExports": 90,
+    "totalImports": 0
+  },
+  {
+    "iso3": "AGO",
+    "year": 1987,
+    "totalExports": 0,
+    "totalImports": 90
+  },
+  {
+    "iso3": "USA",
+    "year": 1988,
+    "totalExports": 100,
+    "totalImports": 0
+  },
+  {
+    "iso3": "AGO",
+    "year": 1988,
+    "totalExports": 0,
+    "totalImports": 100
+  },
+  {
+    "iso3": "USA",
+    "year": 2022,
+    "totalExports": 1074,
+    "totalImports": 0
+  },
+  {
+    "iso3": "UKR",
+    "year": 2022,
+    "totalExports": 0,
+    "totalImports": 1074
+  },
+  {
+    "iso3": "USA",
+    "year": 2023,
+    "totalExports": 1142,
+    "totalImports": 0
+  },
+  {
+    "iso3": "UKR",
+    "year": 2023,
+    "totalExports": 0,
+    "totalImports": 1558
+  },
+  {
+    "iso3": "USA",
+    "year": 2024,
+    "totalExports": 1895,
+    "totalImports": 0
+  },
+  {
+    "iso3": "UKR",
+    "year": 2024,
+    "totalExports": 0,
+    "totalImports": 1715
+  },
+  {
+    "iso3": "DEU",
+    "year": 2023,
+    "totalExports": 356,
+    "totalImports": 0
+  },
+  {
+    "iso3": "GBR",
+    "year": 2023,
+    "totalExports": 210,
+    "totalImports": 0
+  },
+  {
+    "iso3": "USA",
+    "year": 1967,
+    "totalExports": 450,
+    "totalImports": 0
+  },
+  {
+    "iso3": "ISR",
+    "year": 1967,
+    "totalExports": 0,
+    "totalImports": 450
+  },
+  {
+    "iso3": "USA",
+    "year": 1969,
+    "totalExports": 1900,
+    "totalImports": 0
+  },
+  {
+    "iso3": "ISR",
+    "year": 1969,
+    "totalExports": 0,
+    "totalImports": 1900
+  },
+  {
+    "iso3": "ISR",
+    "year": 1970,
+    "totalExports": 0,
+    "totalImports": 450
+  },
+  {
+    "iso3": "ISR",
+    "year": 1971,
+    "totalExports": 0,
+    "totalImports": 456
+  },
+  {
+    "iso3": "ISR",
+    "year": 1973,
+    "totalExports": 0,
+    "totalImports": 1692
+  },
+  {
+    "iso3": "ISR",
+    "year": 1976,
+    "totalExports": 0,
+    "totalImports": 1800
+  },
+  {
+    "iso3": "ISR",
+    "year": 1978,
+    "totalExports": 0,
+    "totalImports": 1000
+  },
+  {
+    "iso3": "USA",
+    "year": 1980,
+    "totalExports": 1800,
+    "totalImports": 0
+  },
+  {
+    "iso3": "ISR",
+    "year": 1980,
+    "totalExports": 0,
+    "totalImports": 1800
+  },
+  {
+    "iso3": "USA",
+    "year": 1983,
+    "totalExports": 1800,
+    "totalImports": 0
+  },
+  {
+    "iso3": "ISR",
+    "year": 1983,
+    "totalExports": 0,
+    "totalImports": 1800
+  },
+  {
+    "iso3": "USA",
+    "year": 1994,
+    "totalExports": 1000,
+    "totalImports": 0
+  },
+  {
+    "iso3": "ISR",
+    "year": 1994,
+    "totalExports": 0,
+    "totalImports": 1000
+  },
+  {
+    "iso3": "USA",
+    "year": 1999,
+    "totalExports": 1200,
+    "totalImports": 0
+  },
+  {
+    "iso3": "ISR",
+    "year": 1999,
+    "totalExports": 0,
+    "totalImports": 1200
+  },
+  {
+    "iso3": "USA",
+    "year": 2016,
+    "totalExports": 4500,
+    "totalImports": 0
+  },
+  {
+    "iso3": "ISR",
+    "year": 2016,
+    "totalExports": 0,
+    "totalImports": 4500
+  },
+  {
+    "iso3": "ISR",
+    "year": 2023,
+    "totalExports": 0,
+    "totalImports": 150
+  },
+  {
+    "iso3": "ISR",
+    "year": 2024,
+    "totalExports": 0,
+    "totalImports": 180
+  },
+  {
+    "iso3": "FRA",
+    "year": 1956,
+    "totalExports": 240,
+    "totalImports": 0
+  },
+  {
+    "iso3": "ISR",
+    "year": 1956,
+    "totalExports": 0,
+    "totalImports": 240
+  },
+  {
+    "iso3": "FRA",
+    "year": 1958,
+    "totalExports": 900,
+    "totalImports": 0
+  },
+  {
+    "iso3": "ISR",
+    "year": 1958,
+    "totalExports": 0,
+    "totalImports": 900
+  },
+  {
+    "iso3": "FRA",
+    "year": 1962,
+    "totalExports": 1080,
+    "totalImports": 0
+  },
+  {
+    "iso3": "ISR",
+    "year": 1962,
+    "totalExports": 0,
+    "totalImports": 1080
+  },
+  {
+    "iso3": "USA",
+    "year": 1954,
+    "totalExports": 480,
+    "totalImports": 0
+  },
+  {
+    "iso3": "PAK",
+    "year": 1954,
+    "totalExports": 0,
+    "totalImports": 480
+  },
+  {
+    "iso3": "USA",
+    "year": 1960,
+    "totalExports": 720,
+    "totalImports": 0
+  },
+  {
+    "iso3": "PAK",
+    "year": 1960,
+    "totalExports": 0,
+    "totalImports": 720
+  },
+  {
+    "iso3": "IND",
+    "year": 1962,
+    "totalExports": 0,
+    "totalImports": 480
+  },
+  {
+    "iso3": "IND",
+    "year": 1965,
+    "totalExports": 0,
+    "totalImports": 960
+  },
+  {
+    "iso3": "IND",
+    "year": 1968,
+    "totalExports": 0,
+    "totalImports": 300
+  },
+  {
+    "iso3": "KOR",
+    "year": 1965,
+    "totalExports": 0,
+    "totalImports": 480
+  },
+  {
+    "iso3": "KOR",
+    "year": 1975,
+    "totalExports": 0,
+    "totalImports": 2280
+  },
+  {
+    "iso3": "VNM",
+    "year": 1965,
+    "totalExports": 0,
+    "totalImports": 400
+  },
+  {
+    "iso3": "VNM",
+    "year": 1968,
+    "totalExports": 0,
+    "totalImports": 100
+  },
+  {
+    "iso3": "SAU",
+    "year": 1973,
+    "totalExports": 0,
+    "totalImports": 360
+  },
+  {
+    "iso3": "SAU",
+    "year": 1978,
+    "totalExports": 0,
+    "totalImports": 2400
+  },
+  {
+    "iso3": "USA",
+    "year": 1992,
+    "totalExports": 2880,
+    "totalImports": 0
+  },
+  {
+    "iso3": "SAU",
+    "year": 1992,
+    "totalExports": 0,
+    "totalImports": 2880
+  },
+  {
+    "iso3": "USA",
+    "year": 2012,
+    "totalExports": 3360,
+    "totalImports": 0
+  },
+  {
+    "iso3": "SAU",
+    "year": 2012,
+    "totalExports": 0,
+    "totalImports": 3360
+  },
+  {
+    "iso3": "FRA",
+    "year": 2014,
+    "totalExports": 3750,
+    "totalImports": 0
+  },
+  {
+    "iso3": "SAU",
+    "year": 2014,
+    "totalExports": 0,
+    "totalImports": 3750
+  },
+  {
+    "iso3": "GBR",
+    "year": 2007,
+    "totalExports": 5400,
+    "totalImports": 0
+  },
+  {
+    "iso3": "SAU",
+    "year": 2007,
+    "totalExports": 0,
+    "totalImports": 5400
+  },
+  {
+    "iso3": "RUS",
+    "year": 1992,
+    "totalExports": 912,
+    "totalImports": 0
+  },
+  {
+    "iso3": "CHN",
+    "year": 1992,
+    "totalExports": 0,
+    "totalImports": 912
+  },
+  {
+    "iso3": "RUS",
+    "year": 1996,
+    "totalExports": 1140,
+    "totalImports": 0
+  },
+  {
+    "iso3": "CHN",
+    "year": 1996,
+    "totalExports": 0,
+    "totalImports": 1140
+  },
+  {
+    "iso3": "RUS",
+    "year": 2000,
+    "totalExports": 1920,
+    "totalImports": 0
+  },
+  {
+    "iso3": "CHN",
+    "year": 2000,
+    "totalExports": 0,
+    "totalImports": 1920
+  },
+  {
+    "iso3": "RUS",
+    "year": 2004,
+    "totalExports": 1920,
+    "totalImports": 0
+  },
+  {
+    "iso3": "IND",
+    "year": 2004,
+    "totalExports": 0,
+    "totalImports": 1920
+  },
+  {
+    "iso3": "RUS",
+    "year": 2016,
+    "totalExports": 1728,
+    "totalImports": 0
+  },
+  {
+    "iso3": "IND",
+    "year": 2016,
+    "totalExports": 0,
+    "totalImports": 1728
+  }
+]
