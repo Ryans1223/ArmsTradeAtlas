@@ -70,6 +70,19 @@ const ISO3_LOOKUP: Record<string, string> = {
   'Namibia': 'NAM', 'El Salvador': 'SLV', 'Honduras': 'HND',
   'Dominican Republic': 'DOM', 'Trinidad and Tobago': 'TTO',
   'Czech and Slovak FS': 'CSK', 'Czechoslovakia': 'CSK',
+  'Oman': 'OMN', 'Singapore': 'SGP', 'Bahrain': 'BHR', 'Tanzania': 'TZA',
+  'Sri Lanka': 'LKA', 'Finland': 'FIN', 'Denmark': 'DNK', 'Czech Republic': 'CZE',
+  'Sweden': 'SWE', 'Switzerland': 'CHE', 'Austria': 'AUT', 'Argentina': 'ARG',
+  // Historical empires (pre-1950 proxy data)
+  'German Empire': 'GEI', 'Imperial Germany': 'GEI', 'Weimar Republic': 'DEU',
+  'Third Reich': 'NAZ', 'Nazi Germany': 'NAZ',
+  'Austria-Hungary': 'AHU', 'Austro-Hungarian Empire': 'AHU',
+  'Ottoman Empire': 'OTT',
+  'Russian Empire': 'REI',
+  'Imperial Japan': 'JAI',
+  'Fascist Italy': 'IFA', 'Kingdom of Italy': 'IFA',
+  'Nationalist China': 'CSR', 'Republic of China': 'CSR',
+  'France': 'FRA', 'Belgium': 'BEL', 'Serbia': 'SRB', 'Romania': 'ROU',
 };
 
 function resolveIso3(name: string, aliases: Record<string, CountryAlias>): string {

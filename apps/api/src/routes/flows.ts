@@ -5,8 +5,8 @@ import { getFlows, getCountryTotals, getTopPartners } from '../data.js';
 const router: IRouter = Router();
 
 const FlowQuerySchema = z.object({
-  from: z.coerce.number().int().min(1950).max(2030).optional(),
-  to: z.coerce.number().int().min(1950).max(2030).optional(),
+  from: z.coerce.number().int().min(1900).max(2030).optional(),
+  to: z.coerce.number().int().min(1900).max(2030).optional(),
   supplier: z.string().length(3).optional(),
   recipient: z.string().length(3).optional(),
   category: z.enum(['aircraft', 'missiles', 'naval', 'armored_vehicles', 'artillery', 'sensors', 'other']).optional(),
@@ -32,7 +32,7 @@ router.get('/', (req, res) => {
 });
 
 const ProfileQuerySchema = z.object({
-  year: z.coerce.number().int().min(1950).max(2030).optional(),
+  year: z.coerce.number().int().min(1900).max(2030).optional(),
 });
 
 router.get('/country/:iso/profile', (req, res) => {

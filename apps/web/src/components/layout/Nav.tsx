@@ -7,6 +7,8 @@ interface NavProps {
 
 const NAV_ITEMS: { scene: Scene; label: string }[] = [
   { scene: 'atlas', label: 'Atlas' },
+  { scene: 'markets', label: 'Markets' },
+  { scene: 'finance', label: 'Finance' },
   { scene: 'stories', label: 'Stories' },
   { scene: 'methodology', label: 'Methodology' },
 ];
@@ -26,7 +28,7 @@ export default function Nav({ onNavigate }: NavProps) {
           Arms Trade Atlas
         </span>
         <span className="font-sans text-caption text-muted tracking-widest uppercase">
-          1950 to present
+          1914 to present
         </span>
       </button>
 

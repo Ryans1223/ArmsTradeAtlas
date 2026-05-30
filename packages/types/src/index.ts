@@ -15,6 +15,8 @@ export interface Country {
   centroidLon: number;
   centroidLat: number;
   isHistorical?: boolean;
+  yearFrom?: number;
+  yearTo?: number;
   successorStates?: string[];
 }
 

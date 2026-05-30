@@ -102,5 +102,23 @@
   "United Kingdom": {
     "iso3": "GBR",
     "displayName": "United Kingdom"
-  }
+  },
+  "German Empire": { "iso3": "GEI", "displayName": "German Empire", "successorStates": ["DEU", "POL"] },
+  "Imperial Germany": { "iso3": "GEI", "displayName": "German Empire", "successorStates": ["DEU"] },
+  "Weimar Republic": { "iso3": "DEU", "displayName": "Germany (Weimar)", "successorStates": ["DEU"] },
+  "Third Reich": { "iso3": "NAZ", "displayName": "Nazi Germany (Third Reich)", "successorStates": ["DEU", "AUT"] },
+  "Nazi Germany": { "iso3": "NAZ", "displayName": "Nazi Germany (Third Reich)", "successorStates": ["DEU"] },
+  "Austria-Hungary": { "iso3": "AHU", "displayName": "Austria-Hungary", "successorStates": ["AUT", "HUN", "CZE", "SVK", "SVN", "HRV", "BIH", "SRB"] },
+  "Austro-Hungarian Empire": { "iso3": "AHU", "displayName": "Austria-Hungary", "successorStates": ["AUT", "HUN"] },
+  "Ottoman Empire": { "iso3": "OTT", "displayName": "Ottoman Empire", "successorStates": ["TUR", "IRQ", "SYR", "JOR", "ISR", "LBN", "SAU"] },
+  "Russian Empire": { "iso3": "REI", "displayName": "Russian Empire", "successorStates": ["RUS", "UKR", "BLR", "FIN", "EST", "LVA", "LTU", "POL"] },
+  "Imperial Japan": { "iso3": "JAI", "displayName": "Japanese Empire", "successorStates": ["JPN"] },
+  "Fascist Italy": { "iso3": "IFA", "displayName": "Fascist Italy", "successorStates": ["ITA"] },
+  "Kingdom of Italy": { "iso3": "IFA", "displayName": "Kingdom of Italy", "successorStates": ["ITA"] },
+  "Nationalist China": { "iso3": "CSR", "displayName": "Republic of China (Nationalist)", "successorStates": ["TWN"] },
+  "Republic of China": { "iso3": "CSR", "displayName": "Republic of China", "successorStates": ["TWN"] },
+  "Belgium Congo": { "iso3": "COD", "displayName": "Belgian Congo", "successorStates": ["COD"] },
+  "Rhodesia": { "iso3": "ZWE", "displayName": "Rhodesia", "successorStates": ["ZWE"] },
+  "South Vietnam": { "iso3": "VNM", "displayName": "South Vietnam", "successorStates": ["VNM"] },
+  "North Vietnam": { "iso3": "VNM", "displayName": "North Vietnam", "successorStates": ["VNM"] }
 }

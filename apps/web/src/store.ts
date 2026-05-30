@@ -1,7 +1,7 @@
 import { create } from 'zustand';
 import type { WeaponCategory } from '@arms-atlas/types';
 
-export type Scene = 'atlas' | 'stories' | 'methodology';
+export type Scene = 'atlas' | 'stories' | 'methodology' | 'markets' | 'finance';
 export type ShadingMode = 'exports' | 'imports' | 'net';
 export type ViewMode = 'choropleth' | 'flows';
 
@@ -35,7 +35,7 @@ interface AtlasState {
 
 export const useAtlasStore = create<AtlasState>((set) => ({
   scene: 'atlas',
-  year: 1990,
+  year: 1914,
   selectedCountry: null,
   hoveredCountry: null,
   supplierFilter: null,

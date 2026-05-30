@@ -49,6 +49,34 @@ export const api = {
         if (!map[row.iso3]) map[row.iso3] = {};
         map[row.iso3]![row.year] = { exports: row.totalExports, imports: row.totalImports };
       }
+      // Merge historical entities into their primary successor state so the
+      // choropleth renders them on modern territory.
+      const merges: [string, string][] = [
+        ['SUN', 'RUS'],  // Soviet Union → Russia
+        ['DDR', 'DEU'],  // East Germany → Germany
+        ['GEI', 'DEU'],  // German Empire → Germany
+        ['NAZ', 'DEU'],  // Third Reich → Germany
+        ['AHU', 'AUT'],  // Austria-Hungary → Austria
+        ['OTT', 'TUR'],  // Ottoman Empire → Turkey
+        ['REI', 'RUS'],  // Russian Empire → Russia
+        ['JAI', 'JPN'],  // Japanese Empire → Japan
+        ['IFA', 'ITA'],  // Fascist Italy → Italy
+        ['CSR', 'CHN'],  // Nationalist China → China (mainland territory)
+        ['YUG', 'SRB'],  // Yugoslavia → Serbia
+      ];
+      for (const [historical, modern] of merges) {
+        if (!map[historical]) continue;
+        if (!map[modern]) map[modern] = {};
+        for (const [yr, data] of Object.entries(map[historical])) {
+          const year = Number(yr);
+          const existing = map[modern]![year];
+          map[modern]![year] = {
+            exports: (existing?.exports ?? 0) + data.exports,
+            imports: (existing?.imports ?? 0) + data.imports,
+          };
+        }
+        delete map[historical];
+      }
       return map;
     }),
 

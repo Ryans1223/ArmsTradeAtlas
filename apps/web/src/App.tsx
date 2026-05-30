@@ -4,6 +4,8 @@ import Nav from './components/layout/Nav.tsx';
 import Atlas from './scenes/Atlas.tsx';
 import Stories from './scenes/Stories.tsx';
 import Methodology from './scenes/Methodology.tsx';
+import Markets from './scenes/Markets.tsx';
+import Finance from './scenes/Finance.tsx';
 import { useAtlasStore } from './store.ts';
 import type { Scene } from './store.ts';
 
@@ -14,7 +16,7 @@ export default function App() {
 
   useEffect(() => {
     const path = location.pathname.replace('/', '') as Scene;
-    if (['atlas', 'stories', 'methodology'].includes(path)) {
+    if (['atlas', 'stories', 'methodology', 'markets', 'finance'].includes(path)) {
       setScene(path as Scene);
     }
   }, [location.pathname, setScene]);
@@ -34,6 +36,8 @@ export default function App() {
           <Route path="/stories" element={<Stories />} />
           <Route path="/stories/:slug" element={<Stories />} />
           <Route path="/methodology" element={<Methodology />} />
+          <Route path="/markets" element={<Markets />} />
+          <Route path="/finance" element={<Finance />} />
           <Route path="*" element={<Navigate to="/atlas" replace />} />
         </Routes>
       </main>

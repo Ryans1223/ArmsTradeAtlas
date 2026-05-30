@@ -1,4 +1,4 @@
-# Arms Trade Atlas
+  # Arms Trade Atlas
 
 An interactive data journalism site visualizing global arms exports and imports from 1950 to the present, built with SIPRI Trend Indicator Value data.
 

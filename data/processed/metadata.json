@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-04T21:03:00.589Z",
+  "lastUpdated": "2026-05-16T19:42:11.789Z",
   "sipriAccessDate": "see README",
   "yearCoverage": {
-    "from": 1954,
+    "from": 1914,
     "to": 2024
   },
   "knownGaps": [
@@ -11,6 +11,6 @@
     "Dual-use technology exports (electronics, propulsion systems) are not included",
     "Financial military aid (FMF grants) without hardware transfers is not reflected in TIV"
   ],
-  "totalFlowRecords": 119,
+  "totalFlowRecords": 4515,
   "citation": "Source: SIPRI Arms Transfers Database, accessed [date]. TIV values are a SIPRI-defined proxy for transfer volume; they are not equivalent to financial sales prices."
 }

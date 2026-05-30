@@ -1,167 +1,1493 @@
 [
-  {"iso3":"AFG","iso2":"AF","name":"Afghanistan","displayName":"Afghanistan","centroidLon":67.7,"centroidLat":33.9},
-  {"iso3":"ALB","iso2":"AL","name":"Albania","displayName":"Albania","centroidLon":20.2,"centroidLat":41.2},
-  {"iso3":"DZA","iso2":"DZ","name":"Algeria","displayName":"Algeria","centroidLon":2.6,"centroidLat":28.0},
-  {"iso3":"AGO","iso2":"AO","name":"Angola","displayName":"Angola","centroidLon":17.9,"centroidLat":-11.2},
-  {"iso3":"ARG","iso2":"AR","name":"Argentina","displayName":"Argentina","centroidLon":-63.6,"centroidLat":-38.4},
-  {"iso3":"ARM","iso2":"AM","name":"Armenia","displayName":"Armenia","centroidLon":45.0,"centroidLat":40.1},
-  {"iso3":"AUS","iso2":"AU","name":"Australia","displayName":"Australia","centroidLon":133.8,"centroidLat":-25.7},
-  {"iso3":"AUT","iso2":"AT","name":"Austria","displayName":"Austria","centroidLon":14.6,"centroidLat":47.7},
-  {"iso3":"AZE","iso2":"AZ","name":"Azerbaijan","displayName":"Azerbaijan","centroidLon":47.6,"centroidLat":40.1},
-  {"iso3":"BHR","iso2":"BH","name":"Bahrain","displayName":"Bahrain","centroidLon":50.6,"centroidLat":26.0},
-  {"iso3":"BGD","iso2":"BD","name":"Bangladesh","displayName":"Bangladesh","centroidLon":90.4,"centroidLat":23.7},
-  {"iso3":"BLR","iso2":"BY","name":"Belarus","displayName":"Belarus","centroidLon":28.0,"centroidLat":53.7},
-  {"iso3":"BEL","iso2":"BE","name":"Belgium","displayName":"Belgium","centroidLon":4.5,"centroidLat":50.5},
-  {"iso3":"BLZ","iso2":"BZ","name":"Belize","displayName":"Belize","centroidLon":-88.5,"centroidLat":17.2},
-  {"iso3":"BEN","iso2":"BJ","name":"Benin","displayName":"Benin","centroidLon":2.3,"centroidLat":9.3},
-  {"iso3":"BOL","iso2":"BO","name":"Bolivia","displayName":"Bolivia","centroidLon":-64.6,"centroidLat":-16.7},
-  {"iso3":"BIH","iso2":"BA","name":"Bosnia and Herzegovina","displayName":"Bosnia and Herzegovina","centroidLon":17.8,"centroidLat":44.2},
-  {"iso3":"BWA","iso2":"BW","name":"Botswana","displayName":"Botswana","centroidLon":24.7,"centroidLat":-22.3},
-  {"iso3":"BRA","iso2":"BR","name":"Brazil","displayName":"Brazil","centroidLon":-51.9,"centroidLat":-14.2},
-  {"iso3":"BRN","iso2":"BN","name":"Brunei","displayName":"Brunei","centroidLon":114.7,"centroidLat":4.5},
-  {"iso3":"BGR","iso2":"BG","name":"Bulgaria","displayName":"Bulgaria","centroidLon":25.5,"centroidLat":42.8},
-  {"iso3":"BFA","iso2":"BF","name":"Burkina Faso","displayName":"Burkina Faso","centroidLon":-1.6,"centroidLat":12.4},
-  {"iso3":"MMR","iso2":"MM","name":"Myanmar","displayName":"Myanmar","centroidLon":96.7,"centroidLat":19.1},
-  {"iso3":"BDI","iso2":"BI","name":"Burundi","displayName":"Burundi","centroidLon":29.9,"centroidLat":-3.4},
-  {"iso3":"KHM","iso2":"KH","name":"Cambodia","displayName":"Cambodia","centroidLon":104.9,"centroidLat":12.6},
-  {"iso3":"CMR","iso2":"CM","name":"Cameroon","displayName":"Cameroon","centroidLon":12.4,"centroidLat":4.6},
-  {"iso3":"CAN","iso2":"CA","name":"Canada","displayName":"Canada","centroidLon":-96.8,"centroidLat":60.0},
-  {"iso3":"CPV","iso2":"CV","name":"Cape Verde","displayName":"Cape Verde","centroidLon":-23.0,"centroidLat":15.1},
-  {"iso3":"CAF","iso2":"CF","name":"Central African Republic","displayName":"Central African Republic","centroidLon":20.9,"centroidLat":6.6},
-  {"iso3":"TCD","iso2":"TD","name":"Chad","displayName":"Chad","centroidLon":18.7,"centroidLat":15.5},
-  {"iso3":"CHL","iso2":"CL","name":"Chile","displayName":"Chile","centroidLon":-71.5,"centroidLat":-35.7},
-  {"iso3":"CHN","iso2":"CN","name":"China","displayName":"China","centroidLon":104.0,"centroidLat":35.8},
-  {"iso3":"COL","iso2":"CO","name":"Colombia","displayName":"Colombia","centroidLon":-74.3,"centroidLat":4.6},
-  {"iso3":"COM","iso2":"KM","name":"Comoros","displayName":"Comoros","centroidLon":43.9,"centroidLat":-11.9},
-  {"iso3":"COG","iso2":"CG","name":"Republic of the Congo","displayName":"Republic of the Congo","centroidLon":15.8,"centroidLat":-0.2},
-  {"iso3":"COD","iso2":"CD","name":"DR Congo","displayName":"DR Congo","centroidLon":24.0,"centroidLat":-3.4},
-  {"iso3":"CRI","iso2":"CR","name":"Costa Rica","displayName":"Costa Rica","centroidLon":-83.8,"centroidLat":9.7},
-  {"iso3":"CIV","iso2":"CI","name":"Ivory Coast","displayName":"Ivory Coast","centroidLon":-5.6,"centroidLat":7.5},
-  {"iso3":"HRV","iso2":"HR","name":"Croatia","displayName":"Croatia","centroidLon":15.2,"centroidLat":45.1},
-  {"iso3":"CUB","iso2":"CU","name":"Cuba","displayName":"Cuba","centroidLon":-79.5,"centroidLat":21.5},
-  {"iso3":"CYP","iso2":"CY","name":"Cyprus","displayName":"Cyprus","centroidLon":33.4,"centroidLat":35.1},
-  {"iso3":"CZE","iso2":"CZ","name":"Czech Republic","displayName":"Czech Republic","centroidLon":15.5,"centroidLat":49.8},
-  {"iso3":"CSK","iso2":"CS","name":"Czechoslovakia","displayName":"Czechoslovakia","centroidLon":15.5,"centroidLat":49.8,"isHistorical":true,"successorStates":["CZE","SVK"]},
-  {"iso3":"DNK","iso2":"DK","name":"Denmark","displayName":"Denmark","centroidLon":10.0,"centroidLat":56.3},
-  {"iso3":"DJI","iso2":"DJ","name":"Djibouti","displayName":"Djibouti","centroidLon":42.6,"centroidLat":11.8},
-  {"iso3":"DOM","iso2":"DO","name":"Dominican Republic","displayName":"Dominican Republic","centroidLon":-70.2,"centroidLat":18.7},
-  {"iso3":"DDR","iso2":"DD","name":"East Germany","displayName":"East Germany","centroidLon":13.4,"centroidLat":52.5,"isHistorical":true,"successorStates":["DEU"]},
-  {"iso3":"ECU","iso2":"EC","name":"Ecuador","displayName":"Ecuador","centroidLon":-78.1,"centroidLat":-1.8},
-  {"iso3":"EGY","iso2":"EG","name":"Egypt","displayName":"Egypt","centroidLon":30.8,"centroidLat":26.7},
-  {"iso3":"SLV","iso2":"SV","name":"El Salvador","displayName":"El Salvador","centroidLon":-88.9,"centroidLat":13.8},
-  {"iso3":"GNQ","iso2":"GQ","name":"Equatorial Guinea","displayName":"Equatorial Guinea","centroidLon":10.5,"centroidLat":1.7},
-  {"iso3":"ERI","iso2":"ER","name":"Eritrea","displayName":"Eritrea","centroidLon":39.8,"centroidLat":15.2},
-  {"iso3":"EST","iso2":"EE","name":"Estonia","displayName":"Estonia","centroidLon":25.0,"centroidLat":58.6},
-  {"iso3":"ETH","iso2":"ET","name":"Ethiopia","displayName":"Ethiopia","centroidLon":40.5,"centroidLat":8.6},
-  {"iso3":"FIN","iso2":"FI","name":"Finland","displayName":"Finland","centroidLon":26.3,"centroidLat":64.0},
-  {"iso3":"FRA","iso2":"FR","name":"France","displayName":"France","centroidLon":2.2,"centroidLat":46.2},
-  {"iso3":"GAB","iso2":"GA","name":"Gabon","displayName":"Gabon","centroidLon":11.6,"centroidLat":-0.8},
-  {"iso3":"GEO","iso2":"GE","name":"Georgia","displayName":"Georgia","centroidLon":43.4,"centroidLat":42.3},
-  {"iso3":"DEU","iso2":"DE","name":"Germany","displayName":"Germany","centroidLon":10.5,"centroidLat":51.2},
-  {"iso3":"GHA","iso2":"GH","name":"Ghana","displayName":"Ghana","centroidLon":-1.0,"centroidLat":7.9},
-  {"iso3":"GRC","iso2":"GR","name":"Greece","displayName":"Greece","centroidLon":21.8,"centroidLat":39.1},
-  {"iso3":"GTM","iso2":"GT","name":"Guatemala","displayName":"Guatemala","centroidLon":-90.2,"centroidLat":15.8},
-  {"iso3":"GIN","iso2":"GN","name":"Guinea","displayName":"Guinea","centroidLon":-11.8,"centroidLat":11.0},
-  {"iso3":"GNB","iso2":"GW","name":"Guinea-Bissau","displayName":"Guinea-Bissau","centroidLon":-15.2,"centroidLat":12.0},
-  {"iso3":"HTI","iso2":"HT","name":"Haiti","displayName":"Haiti","centroidLon":-72.3,"centroidLat":18.9},
-  {"iso3":"HND","iso2":"HN","name":"Honduras","displayName":"Honduras","centroidLon":-86.6,"centroidLat":15.2},
-  {"iso3":"HUN","iso2":"HU","name":"Hungary","displayName":"Hungary","centroidLon":19.5,"centroidLat":47.2},
-  {"iso3":"IND","iso2":"IN","name":"India","displayName":"India","centroidLon":78.9,"centroidLat":20.6},
-  {"iso3":"IDN","iso2":"ID","name":"Indonesia","displayName":"Indonesia","centroidLon":113.9,"centroidLat":-0.8},
-  {"iso3":"IRN","iso2":"IR","name":"Iran","displayName":"Iran","centroidLon":53.7,"centroidLat":32.4},
-  {"iso3":"IRQ","iso2":"IQ","name":"Iraq","displayName":"Iraq","centroidLon":43.7,"centroidLat":33.2},
-  {"iso3":"IRL","iso2":"IE","name":"Ireland","displayName":"Ireland","centroidLon":-8.2,"centroidLat":53.2},
-  {"iso3":"ISR","iso2":"IL","name":"Israel","displayName":"Israel","centroidLon":34.9,"centroidLat":31.5},
-  {"iso3":"ITA","iso2":"IT","name":"Italy","displayName":"Italy","centroidLon":12.6,"centroidLat":42.5},
-  {"iso3":"JAM","iso2":"JM","name":"Jamaica","displayName":"Jamaica","centroidLon":-77.3,"centroidLat":18.1},
-  {"iso3":"JPN","iso2":"JP","name":"Japan","displayName":"Japan","centroidLon":138.3,"centroidLat":36.2},
-  {"iso3":"JOR","iso2":"JO","name":"Jordan","displayName":"Jordan","centroidLon":36.9,"centroidLat":31.2},
-  {"iso3":"KAZ","iso2":"KZ","name":"Kazakhstan","displayName":"Kazakhstan","centroidLon":66.9,"centroidLat":48.0},
-  {"iso3":"KEN","iso2":"KE","name":"Kenya","displayName":"Kenya","centroidLon":37.9,"centroidLat":0.0},
-  {"iso3":"KWT","iso2":"KW","name":"Kuwait","displayName":"Kuwait","centroidLon":47.5,"centroidLat":29.3},
-  {"iso3":"KGZ","iso2":"KG","name":"Kyrgyzstan","displayName":"Kyrgyzstan","centroidLon":74.8,"centroidLat":41.4},
-  {"iso3":"LAO","iso2":"LA","name":"Laos","displayName":"Laos","centroidLon":102.5,"centroidLat":18.2},
-  {"iso3":"LVA","iso2":"LV","name":"Latvia","displayName":"Latvia","centroidLon":24.6,"centroidLat":56.9},
-  {"iso3":"LBN","iso2":"LB","name":"Lebanon","displayName":"Lebanon","centroidLon":35.9,"centroidLat":33.9},
-  {"iso3":"LBR","iso2":"LR","name":"Liberia","displayName":"Liberia","centroidLon":-9.4,"centroidLat":6.4},
-  {"iso3":"LBY","iso2":"LY","name":"Libya","displayName":"Libya","centroidLon":17.2,"centroidLat":27.1},
-  {"iso3":"LTU","iso2":"LT","name":"Lithuania","displayName":"Lithuania","centroidLon":23.9,"centroidLat":55.2},
-  {"iso3":"MKD","iso2":"MK","name":"North Macedonia","displayName":"North Macedonia","centroidLon":21.7,"centroidLat":41.6},
-  {"iso3":"MDG","iso2":"MG","name":"Madagascar","displayName":"Madagascar","centroidLon":46.9,"centroidLat":-19.4},
-  {"iso3":"MWI","iso2":"MW","name":"Malawi","displayName":"Malawi","centroidLon":34.3,"centroidLat":-13.2},
-  {"iso3":"MYS","iso2":"MY","name":"Malaysia","displayName":"Malaysia","centroidLon":109.7,"centroidLat":4.2},
-  {"iso3":"MDV","iso2":"MV","name":"Maldives","displayName":"Maldives","centroidLon":73.2,"centroidLat":3.2},
-  {"iso3":"MLI","iso2":"ML","name":"Mali","displayName":"Mali","centroidLon":-2.0,"centroidLat":17.6},
-  {"iso3":"MRT","iso2":"MR","name":"Mauritania","displayName":"Mauritania","centroidLon":-10.9,"centroidLat":20.3},
-  {"iso3":"MEX","iso2":"MX","name":"Mexico","displayName":"Mexico","centroidLon":-102.6,"centroidLat":23.9},
-  {"iso3":"MDA","iso2":"MD","name":"Moldova","displayName":"Moldova","centroidLon":28.4,"centroidLat":47.4},
-  {"iso3":"MNG","iso2":"MN","name":"Mongolia","displayName":"Mongolia","centroidLon":103.8,"centroidLat":46.9},
-  {"iso3":"MNE","iso2":"ME","name":"Montenegro","displayName":"Montenegro","centroidLon":19.4,"centroidLat":42.8},
-  {"iso3":"MAR","iso2":"MA","name":"Morocco","displayName":"Morocco","centroidLon":-7.1,"centroidLat":31.8},
-  {"iso3":"MOZ","iso2":"MZ","name":"Mozambique","displayName":"Mozambique","centroidLon":35.5,"centroidLat":-18.7},
-  {"iso3":"NAM","iso2":"NA","name":"Namibia","displayName":"Namibia","centroidLon":18.5,"centroidLat":-22.3},
-  {"iso3":"NPL","iso2":"NP","name":"Nepal","displayName":"Nepal","centroidLon":84.1,"centroidLat":28.4},
-  {"iso3":"NLD","iso2":"NL","name":"Netherlands","displayName":"Netherlands","centroidLon":5.3,"centroidLat":52.3},
-  {"iso3":"NZL","iso2":"NZ","name":"New Zealand","displayName":"New Zealand","centroidLon":172.8,"centroidLat":-41.5},
-  {"iso3":"NIC","iso2":"NI","name":"Nicaragua","displayName":"Nicaragua","centroidLon":-85.1,"centroidLat":12.8},
-  {"iso3":"NER","iso2":"NE","name":"Niger","displayName":"Niger","centroidLon":8.1,"centroidLat":17.6},
-  {"iso3":"NGA","iso2":"NG","name":"Nigeria","displayName":"Nigeria","centroidLon":8.7,"centroidLat":9.1},
-  {"iso3":"NOR","iso2":"NO","name":"Norway","displayName":"Norway","centroidLon":8.5,"centroidLat":64.6},
-  {"iso3":"OMN","iso2":"OM","name":"Oman","displayName":"Oman","centroidLon":57.6,"centroidLat":21.5},
-  {"iso3":"PAK","iso2":"PK","name":"Pakistan","displayName":"Pakistan","centroidLon":69.3,"centroidLat":30.4},
-  {"iso3":"PAN","iso2":"PA","name":"Panama","displayName":"Panama","centroidLon":-80.8,"centroidLat":8.5},
-  {"iso3":"PNG","iso2":"PG","name":"Papua New Guinea","displayName":"Papua New Guinea","centroidLon":144.2,"centroidLat":-6.3},
-  {"iso3":"PRY","iso2":"PY","name":"Paraguay","displayName":"Paraguay","centroidLon":-58.4,"centroidLat":-23.4},
-  {"iso3":"PER","iso2":"PE","name":"Peru","displayName":"Peru","centroidLon":-75.0,"centroidLat":-9.2},
-  {"iso3":"PHL","iso2":"PH","name":"Philippines","displayName":"Philippines","centroidLon":122.9,"centroidLat":12.9},
-  {"iso3":"POL","iso2":"PL","name":"Poland","displayName":"Poland","centroidLon":19.1,"centroidLat":51.9},
-  {"iso3":"PRT","iso2":"PT","name":"Portugal","displayName":"Portugal","centroidLon":-8.2,"centroidLat":39.4},
-  {"iso3":"PSE","iso2":"PS","name":"Palestinian Territories","displayName":"Palestinian Territories","centroidLon":35.2,"centroidLat":31.9},
-  {"iso3":"QAT","iso2":"QA","name":"Qatar","displayName":"Qatar","centroidLon":51.2,"centroidLat":25.4},
-  {"iso3":"ROU","iso2":"RO","name":"Romania","displayName":"Romania","centroidLon":24.9,"centroidLat":45.9},
-  {"iso3":"RUS","iso2":"RU","name":"Russia","displayName":"Russia","centroidLon":105.0,"centroidLat":61.0},
-  {"iso3":"RWA","iso2":"RW","name":"Rwanda","displayName":"Rwanda","centroidLon":29.9,"centroidLat":-1.9},
-  {"iso3":"SAU","iso2":"SA","name":"Saudi Arabia","displayName":"Saudi Arabia","centroidLon":45.0,"centroidLat":24.0},
-  {"iso3":"SEN","iso2":"SN","name":"Senegal","displayName":"Senegal","centroidLon":-14.5,"centroidLat":14.5},
-  {"iso3":"SRB","iso2":"RS","name":"Serbia","displayName":"Serbia","centroidLon":20.9,"centroidLat":44.0},
-  {"iso3":"SLE","iso2":"SL","name":"Sierra Leone","displayName":"Sierra Leone","centroidLon":-11.8,"centroidLat":8.5},
-  {"iso3":"SGP","iso2":"SG","name":"Singapore","displayName":"Singapore","centroidLon":103.8,"centroidLat":1.4},
-  {"iso3":"SVK","iso2":"SK","name":"Slovakia","displayName":"Slovakia","centroidLon":19.7,"centroidLat":48.7},
-  {"iso3":"SVN","iso2":"SI","name":"Slovenia","displayName":"Slovenia","centroidLon":14.8,"centroidLat":46.1},
-  {"iso3":"SOM","iso2":"SO","name":"Somalia","displayName":"Somalia","centroidLon":46.2,"centroidLat":5.2},
-  {"iso3":"ZAF","iso2":"ZA","name":"South Africa","displayName":"South Africa","centroidLon":25.1,"centroidLat":-29.0},
-  {"iso3":"SSD","iso2":"SS","name":"South Sudan","displayName":"South Sudan","centroidLon":31.3,"centroidLat":7.9},
-  {"iso3":"ESP","iso2":"ES","name":"Spain","displayName":"Spain","centroidLon":-3.7,"centroidLat":40.2},
-  {"iso3":"LKA","iso2":"LK","name":"Sri Lanka","displayName":"Sri Lanka","centroidLon":80.7,"centroidLat":7.9},
-  {"iso3":"SDN","iso2":"SD","name":"Sudan","displayName":"Sudan","centroidLon":30.2,"centroidLat":15.6},
-  {"iso3":"SUN","iso2":"SU","name":"Soviet Union","displayName":"Soviet Union","centroidLon":105.0,"centroidLat":61.0,"isHistorical":true,"successorStates":["RUS","UKR","BLR","KAZ","UZB","ARM","AZE","GEO","KGZ","MDA","TJK","TKM","LTU","LVA","EST"]},
-  {"iso3":"SWZ","iso2":"SZ","name":"Swaziland","displayName":"Eswatini","centroidLon":31.5,"centroidLat":-26.5},
-  {"iso3":"SWE","iso2":"SE","name":"Sweden","displayName":"Sweden","centroidLon":17.6,"centroidLat":62.2},
-  {"iso3":"CHE","iso2":"CH","name":"Switzerland","displayName":"Switzerland","centroidLon":8.2,"centroidLat":46.8},
-  {"iso3":"SYR","iso2":"SY","name":"Syria","displayName":"Syria","centroidLon":38.5,"centroidLat":35.0},
-  {"iso3":"TWN","iso2":"TW","name":"Taiwan","displayName":"Taiwan","centroidLon":121.0,"centroidLat":23.7},
-  {"iso3":"TJK","iso2":"TJ","name":"Tajikistan","displayName":"Tajikistan","centroidLon":71.3,"centroidLat":38.9},
-  {"iso3":"TZA","iso2":"TZ","name":"Tanzania","displayName":"Tanzania","centroidLon":35.0,"centroidLat":-6.4},
-  {"iso3":"THA","iso2":"TH","name":"Thailand","displayName":"Thailand","centroidLon":100.9,"centroidLat":15.9},
-  {"iso3":"TGO","iso2":"TG","name":"Togo","displayName":"Togo","centroidLon":1.1,"centroidLat":8.6},
-  {"iso3":"TTO","iso2":"TT","name":"Trinidad and Tobago","displayName":"Trinidad and Tobago","centroidLon":-61.2,"centroidLat":10.7},
-  {"iso3":"TUN","iso2":"TN","name":"Tunisia","displayName":"Tunisia","centroidLon":9.6,"centroidLat":33.9},
-  {"iso3":"TUR","iso2":"TR","name":"Turkey","displayName":"Turkey","centroidLon":35.2,"centroidLat":38.9},
-  {"iso3":"TKM","iso2":"TM","name":"Turkmenistan","displayName":"Turkmenistan","centroidLon":58.4,"centroidLat":38.9},
-  {"iso3":"UGA","iso2":"UG","name":"Uganda","displayName":"Uganda","centroidLon":32.3,"centroidLat":1.4},
-  {"iso3":"UKR","iso2":"UA","name":"Ukraine","displayName":"Ukraine","centroidLon":31.2,"centroidLat":48.4},
-  {"iso3":"ARE","iso2":"AE","name":"United Arab Emirates","displayName":"United Arab Emirates","centroidLon":54.0,"centroidLat":24.0},
-  {"iso3":"GBR","iso2":"GB","name":"United Kingdom","displayName":"United Kingdom","centroidLon":-3.4,"centroidLat":55.4},
-  {"iso3":"USA","iso2":"US","name":"United States","displayName":"United States","centroidLon":-98.5,"centroidLat":39.5},
-  {"iso3":"URY","iso2":"UY","name":"Uruguay","displayName":"Uruguay","centroidLon":-56.0,"centroidLat":-32.8},
-  {"iso3":"UZB","iso2":"UZ","name":"Uzbekistan","displayName":"Uzbekistan","centroidLon":63.2,"centroidLat":41.4},
-  {"iso3":"VEN","iso2":"VE","name":"Venezuela","displayName":"Venezuela","centroidLon":-66.6,"centroidLat":8.0},
-  {"iso3":"VNM","iso2":"VN","name":"Vietnam","displayName":"Vietnam","centroidLon":108.0,"centroidLat":14.1},
-  {"iso3":"YUG","iso2":"YU","name":"Yugoslavia","displayName":"Yugoslavia","centroidLon":20.5,"centroidLat":44.0,"isHistorical":true,"successorStates":["SVN","HRV","BIH","SRB","MKD","MNE"]},
-  {"iso3":"YEM","iso2":"YE","name":"Yemen","displayName":"Yemen","centroidLon":48.5,"centroidLat":15.6},
-  {"iso3":"ZMB","iso2":"ZM","name":"Zambia","displayName":"Zambia","centroidLon":27.8,"centroidLat":-13.1},
-  {"iso3":"ZWE","iso2":"ZW","name":"Zimbabwe","displayName":"Zimbabwe","centroidLon":29.9,"centroidLat":-19.0},
-  {"iso3":"PRK","iso2":"KP","name":"North Korea","displayName":"North Korea","centroidLon":127.5,"centroidLat":40.3},
-  {"iso3":"KOR","iso2":"KR","name":"South Korea","displayName":"South Korea","centroidLon":127.8,"centroidLat":36.5},
-  {"iso3":"XKX","iso2":"XK","name":"Kosovo","displayName":"Kosovo","centroidLon":20.9,"centroidLat":42.6}
+  {
+    "iso3": "AFG",
+    "iso2": "AF",
+    "name": "Afghanistan",
+    "displayName": "Afghanistan",
+    "centroidLon": 67.7,
+    "centroidLat": 33.9
+  },
+  {
+    "iso3": "ALB",
+    "iso2": "AL",
+    "name": "Albania",
+    "displayName": "Albania",
+    "centroidLon": 20.2,
+    "centroidLat": 41.2
+  },
+  {
+    "iso3": "DZA",
+    "iso2": "DZ",
+    "name": "Algeria",
+    "displayName": "Algeria",
+    "centroidLon": 2.6,
+    "centroidLat": 28
+  },
+  {
+    "iso3": "AGO",
+    "iso2": "AO",
+    "name": "Angola",
+    "displayName": "Angola",
+    "centroidLon": 17.9,
+    "centroidLat": -11.2
+  },
+  {
+    "iso3": "ARG",
+    "iso2": "AR",
+    "name": "Argentina",
+    "displayName": "Argentina",
+    "centroidLon": -63.6,
+    "centroidLat": -38.4
+  },
+  {
+    "iso3": "ARM",
+    "iso2": "AM",
+    "name": "Armenia",
+    "displayName": "Armenia",
+    "centroidLon": 45,
+    "centroidLat": 40.1
+  },
+  {
+    "iso3": "AUS",
+    "iso2": "AU",
+    "name": "Australia",
+    "displayName": "Australia",
+    "centroidLon": 133.8,
+    "centroidLat": -25.7
+  },
+  {
+    "iso3": "AUT",
+    "iso2": "AT",
+    "name": "Austria",
+    "displayName": "Austria",
+    "centroidLon": 14.6,
+    "centroidLat": 47.7
+  },
+  {
+    "iso3": "AZE",
+    "iso2": "AZ",
+    "name": "Azerbaijan",
+    "displayName": "Azerbaijan",
+    "centroidLon": 47.6,
+    "centroidLat": 40.1
+  },
+  {
+    "iso3": "BHR",
+    "iso2": "BH",
+    "name": "Bahrain",
+    "displayName": "Bahrain",
+    "centroidLon": 50.6,
+    "centroidLat": 26
+  },
+  {
+    "iso3": "BGD",
+    "iso2": "BD",
+    "name": "Bangladesh",
+    "displayName": "Bangladesh",
+    "centroidLon": 90.4,
+    "centroidLat": 23.7
+  },
+  {
+    "iso3": "BLR",
+    "iso2": "BY",
+    "name": "Belarus",
+    "displayName": "Belarus",
+    "centroidLon": 28,
+    "centroidLat": 53.7
+  },
+  {
+    "iso3": "BEL",
+    "iso2": "BE",
+    "name": "Belgium",
+    "displayName": "Belgium",
+    "centroidLon": 4.5,
+    "centroidLat": 50.5
+  },
+  {
+    "iso3": "BLZ",
+    "iso2": "BZ",
+    "name": "Belize",
+    "displayName": "Belize",
+    "centroidLon": -88.5,
+    "centroidLat": 17.2
+  },
+  {
+    "iso3": "BEN",
+    "iso2": "BJ",
+    "name": "Benin",
+    "displayName": "Benin",
+    "centroidLon": 2.3,
+    "centroidLat": 9.3
+  },
+  {
+    "iso3": "BOL",
+    "iso2": "BO",
+    "name": "Bolivia",
+    "displayName": "Bolivia",
+    "centroidLon": -64.6,
+    "centroidLat": -16.7
+  },
+  {
+    "iso3": "BIH",
+    "iso2": "BA",
+    "name": "Bosnia and Herzegovina",
+    "displayName": "Bosnia and Herzegovina",
+    "centroidLon": 17.8,
+    "centroidLat": 44.2
+  },
+  {
+    "iso3": "BWA",
+    "iso2": "BW",
+    "name": "Botswana",
+    "displayName": "Botswana",
+    "centroidLon": 24.7,
+    "centroidLat": -22.3
+  },
+  {
+    "iso3": "BRA",
+    "iso2": "BR",
+    "name": "Brazil",
+    "displayName": "Brazil",
+    "centroidLon": -51.9,
+    "centroidLat": -14.2
+  },
+  {
+    "iso3": "BRN",
+    "iso2": "BN",
+    "name": "Brunei",
+    "displayName": "Brunei",
+    "centroidLon": 114.7,
+    "centroidLat": 4.5
+  },
+  {
+    "iso3": "BGR",
+    "iso2": "BG",
+    "name": "Bulgaria",
+    "displayName": "Bulgaria",
+    "centroidLon": 25.5,
+    "centroidLat": 42.8
+  },
+  {
+    "iso3": "BFA",
+    "iso2": "BF",
+    "name": "Burkina Faso",
+    "displayName": "Burkina Faso",
+    "centroidLon": -1.6,
+    "centroidLat": 12.4
+  },
+  {
+    "iso3": "MMR",
+    "iso2": "MM",
+    "name": "Myanmar",
+    "displayName": "Myanmar",
+    "centroidLon": 96.7,
+    "centroidLat": 19.1
+  },
+  {
+    "iso3": "BDI",
+    "iso2": "BI",
+    "name": "Burundi",
+    "displayName": "Burundi",
+    "centroidLon": 29.9,
+    "centroidLat": -3.4
+  },
+  {
+    "iso3": "KHM",
+    "iso2": "KH",
+    "name": "Cambodia",
+    "displayName": "Cambodia",
+    "centroidLon": 104.9,
+    "centroidLat": 12.6
+  },
+  {
+    "iso3": "CMR",
+    "iso2": "CM",
+    "name": "Cameroon",
+    "displayName": "Cameroon",
+    "centroidLon": 12.4,
+    "centroidLat": 4.6
+  },
+  {
+    "iso3": "CAN",
+    "iso2": "CA",
+    "name": "Canada",
+    "displayName": "Canada",
+    "centroidLon": -96.8,
+    "centroidLat": 60
+  },
+  {
+    "iso3": "CPV",
+    "iso2": "CV",
+    "name": "Cape Verde",
+    "displayName": "Cape Verde",
+    "centroidLon": -23,
+    "centroidLat": 15.1
+  },
+  {
+    "iso3": "CAF",
+    "iso2": "CF",
+    "name": "Central African Republic",
+    "displayName": "Central African Republic",
+    "centroidLon": 20.9,
+    "centroidLat": 6.6
+  },
+  {
+    "iso3": "TCD",
+    "iso2": "TD",
+    "name": "Chad",
+    "displayName": "Chad",
+    "centroidLon": 18.7,
+    "centroidLat": 15.5
+  },
+  {
+    "iso3": "CHL",
+    "iso2": "CL",
+    "name": "Chile",
+    "displayName": "Chile",
+    "centroidLon": -71.5,
+    "centroidLat": -35.7
+  },
+  {
+    "iso3": "CHN",
+    "iso2": "CN",
+    "name": "China",
+    "displayName": "China",
+    "centroidLon": 104,
+    "centroidLat": 35.8
+  },
+  {
+    "iso3": "COL",
+    "iso2": "CO",
+    "name": "Colombia",
+    "displayName": "Colombia",
+    "centroidLon": -74.3,
+    "centroidLat": 4.6
+  },
+  {
+    "iso3": "COM",
+    "iso2": "KM",
+    "name": "Comoros",
+    "displayName": "Comoros",
+    "centroidLon": 43.9,
+    "centroidLat": -11.9
+  },
+  {
+    "iso3": "COG",
+    "iso2": "CG",
+    "name": "Republic of the Congo",
+    "displayName": "Republic of the Congo",
+    "centroidLon": 15.8,
+    "centroidLat": -0.2
+  },
+  {
+    "iso3": "COD",
+    "iso2": "CD",
+    "name": "DR Congo",
+    "displayName": "DR Congo",
+    "centroidLon": 24,
+    "centroidLat": -3.4
+  },
+  {
+    "iso3": "CRI",
+    "iso2": "CR",
+    "name": "Costa Rica",
+    "displayName": "Costa Rica",
+    "centroidLon": -83.8,
+    "centroidLat": 9.7
+  },
+  {
+    "iso3": "CIV",
+    "iso2": "CI",
+    "name": "Ivory Coast",
+    "displayName": "Ivory Coast",
+    "centroidLon": -5.6,
+    "centroidLat": 7.5
+  },
+  {
+    "iso3": "HRV",
+    "iso2": "HR",
+    "name": "Croatia",
+    "displayName": "Croatia",
+    "centroidLon": 15.2,
+    "centroidLat": 45.1
+  },
+  {
+    "iso3": "CUB",
+    "iso2": "CU",
+    "name": "Cuba",
+    "displayName": "Cuba",
+    "centroidLon": -79.5,
+    "centroidLat": 21.5
+  },
+  {
+    "iso3": "CYP",
+    "iso2": "CY",
+    "name": "Cyprus",
+    "displayName": "Cyprus",
+    "centroidLon": 33.4,
+    "centroidLat": 35.1
+  },
+  {
+    "iso3": "CZE",
+    "iso2": "CZ",
+    "name": "Czech Republic",
+    "displayName": "Czech Republic",
+    "centroidLon": 15.5,
+    "centroidLat": 49.8
+  },
+  {
+    "iso3": "CSK",
+    "iso2": "CS",
+    "name": "Czechoslovakia",
+    "displayName": "Czechoslovakia",
+    "centroidLon": 15.5,
+    "centroidLat": 49.8,
+    "isHistorical": true,
+    "successorStates": [
+      "CZE",
+      "SVK"
+    ],
+    "yearFrom": 1918,
+    "yearTo": 1993
+  },
+  {
+    "iso3": "DNK",
+    "iso2": "DK",
+    "name": "Denmark",
+    "displayName": "Denmark",
+    "centroidLon": 10,
+    "centroidLat": 56.3
+  },
+  {
+    "iso3": "DJI",
+    "iso2": "DJ",
+    "name": "Djibouti",
+    "displayName": "Djibouti",
+    "centroidLon": 42.6,
+    "centroidLat": 11.8
+  },
+  {
+    "iso3": "DOM",
+    "iso2": "DO",
+    "name": "Dominican Republic",
+    "displayName": "Dominican Republic",
+    "centroidLon": -70.2,
+    "centroidLat": 18.7
+  },
+  {
+    "iso3": "ECU",
+    "iso2": "EC",
+    "name": "Ecuador",
+    "displayName": "Ecuador",
+    "centroidLon": -78.1,
+    "centroidLat": -1.8
+  },
+  {
+    "iso3": "EGY",
+    "iso2": "EG",
+    "name": "Egypt",
+    "displayName": "Egypt",
+    "centroidLon": 30.8,
+    "centroidLat": 26.7
+  },
+  {
+    "iso3": "SLV",
+    "iso2": "SV",
+    "name": "El Salvador",
+    "displayName": "El Salvador",
+    "centroidLon": -88.9,
+    "centroidLat": 13.8
+  },
+  {
+    "iso3": "GNQ",
+    "iso2": "GQ",
+    "name": "Equatorial Guinea",
+    "displayName": "Equatorial Guinea",
+    "centroidLon": 10.5,
+    "centroidLat": 1.7
+  },
+  {
+    "iso3": "ERI",
+    "iso2": "ER",
+    "name": "Eritrea",
+    "displayName": "Eritrea",
+    "centroidLon": 39.8,
+    "centroidLat": 15.2
+  },
+  {
+    "iso3": "EST",
+    "iso2": "EE",
+    "name": "Estonia",
+    "displayName": "Estonia",
+    "centroidLon": 25,
+    "centroidLat": 58.6
+  },
+  {
+    "iso3": "ETH",
+    "iso2": "ET",
+    "name": "Ethiopia",
+    "displayName": "Ethiopia",
+    "centroidLon": 40.5,
+    "centroidLat": 8.6
+  },
+  {
+    "iso3": "FIN",
+    "iso2": "FI",
+    "name": "Finland",
+    "displayName": "Finland",
+    "centroidLon": 26.3,
+    "centroidLat": 64
+  },
+  {
+    "iso3": "FRA",
+    "iso2": "FR",
+    "name": "France",
+    "displayName": "France",
+    "centroidLon": 2.2,
+    "centroidLat": 46.2
+  },
+  {
+    "iso3": "GAB",
+    "iso2": "GA",
+    "name": "Gabon",
+    "displayName": "Gabon",
+    "centroidLon": 11.6,
+    "centroidLat": -0.8
+  },
+  {
+    "iso3": "GEO",
+    "iso2": "GE",
+    "name": "Georgia",
+    "displayName": "Georgia",
+    "centroidLon": 43.4,
+    "centroidLat": 42.3
+  },
+  {
+    "iso3": "DEU",
+    "iso2": "DE",
+    "name": "Germany",
+    "displayName": "Germany",
+    "centroidLon": 10.5,
+    "centroidLat": 51.2
+  },
+  {
+    "iso3": "GHA",
+    "iso2": "GH",
+    "name": "Ghana",
+    "displayName": "Ghana",
+    "centroidLon": -1,
+    "centroidLat": 7.9
+  },
+  {
+    "iso3": "GRC",
+    "iso2": "GR",
+    "name": "Greece",
+    "displayName": "Greece",
+    "centroidLon": 21.8,
+    "centroidLat": 39.1
+  },
+  {
+    "iso3": "GTM",
+    "iso2": "GT",
+    "name": "Guatemala",
+    "displayName": "Guatemala",
+    "centroidLon": -90.2,
+    "centroidLat": 15.8
+  },
+  {
+    "iso3": "GIN",
+    "iso2": "GN",
+    "name": "Guinea",
+    "displayName": "Guinea",
+    "centroidLon": -11.8,
+    "centroidLat": 11
+  },
+  {
+    "iso3": "GNB",
+    "iso2": "GW",
+    "name": "Guinea-Bissau",
+    "displayName": "Guinea-Bissau",
+    "centroidLon": -15.2,
+    "centroidLat": 12
+  },
+  {
+    "iso3": "HTI",
+    "iso2": "HT",
+    "name": "Haiti",
+    "displayName": "Haiti",
+    "centroidLon": -72.3,
+    "centroidLat": 18.9
+  },
+  {
+    "iso3": "HND",
+    "iso2": "HN",
+    "name": "Honduras",
+    "displayName": "Honduras",
+    "centroidLon": -86.6,
+    "centroidLat": 15.2
+  },
+  {
+    "iso3": "HUN",
+    "iso2": "HU",
+    "name": "Hungary",
+    "displayName": "Hungary",
+    "centroidLon": 19.5,
+    "centroidLat": 47.2
+  },
+  {
+    "iso3": "IND",
+    "iso2": "IN",
+    "name": "India",
+    "displayName": "India",
+    "centroidLon": 78.9,
+    "centroidLat": 20.6
+  },
+  {
+    "iso3": "IDN",
+    "iso2": "ID",
+    "name": "Indonesia",
+    "displayName": "Indonesia",
+    "centroidLon": 113.9,
+    "centroidLat": -0.8
+  },
+  {
+    "iso3": "IRN",
+    "iso2": "IR",
+    "name": "Iran",
+    "displayName": "Iran",
+    "centroidLon": 53.7,
+    "centroidLat": 32.4
+  },
+  {
+    "iso3": "IRQ",
+    "iso2": "IQ",
+    "name": "Iraq",
+    "displayName": "Iraq",
+    "centroidLon": 43.7,
+    "centroidLat": 33.2
+  },
+  {
+    "iso3": "IRL",
+    "iso2": "IE",
+    "name": "Ireland",
+    "displayName": "Ireland",
+    "centroidLon": -8.2,
+    "centroidLat": 53.2
+  },
+  {
+    "iso3": "ISR",
+    "iso2": "IL",
+    "name": "Israel",
+    "displayName": "Israel",
+    "centroidLon": 34.9,
+    "centroidLat": 31.5
+  },
+  {
+    "iso3": "ITA",
+    "iso2": "IT",
+    "name": "Italy",
+    "displayName": "Italy",
+    "centroidLon": 12.6,
+    "centroidLat": 42.5
+  },
+  {
+    "iso3": "JAM",
+    "iso2": "JM",
+    "name": "Jamaica",
+    "displayName": "Jamaica",
+    "centroidLon": -77.3,
+    "centroidLat": 18.1
+  },
+  {
+    "iso3": "JPN",
+    "iso2": "JP",
+    "name": "Japan",
+    "displayName": "Japan",
+    "centroidLon": 138.3,
+    "centroidLat": 36.2
+  },
+  {
+    "iso3": "JOR",
+    "iso2": "JO",
+    "name": "Jordan",
+    "displayName": "Jordan",
+    "centroidLon": 36.9,
+    "centroidLat": 31.2
+  },
+  {
+    "iso3": "KAZ",
+    "iso2": "KZ",
+    "name": "Kazakhstan",
+    "displayName": "Kazakhstan",
+    "centroidLon": 66.9,
+    "centroidLat": 48
+  },
+  {
+    "iso3": "KEN",
+    "iso2": "KE",
+    "name": "Kenya",
+    "displayName": "Kenya",
+    "centroidLon": 37.9,
+    "centroidLat": 0
+  },
+  {
+    "iso3": "KWT",
+    "iso2": "KW",
+    "name": "Kuwait",
+    "displayName": "Kuwait",
+    "centroidLon": 47.5,
+    "centroidLat": 29.3
+  },
+  {
+    "iso3": "KGZ",
+    "iso2": "KG",
+    "name": "Kyrgyzstan",
+    "displayName": "Kyrgyzstan",
+    "centroidLon": 74.8,
+    "centroidLat": 41.4
+  },
+  {
+    "iso3": "LAO",
+    "iso2": "LA",
+    "name": "Laos",
+    "displayName": "Laos",
+    "centroidLon": 102.5,
+    "centroidLat": 18.2
+  },
+  {
+    "iso3": "LVA",
+    "iso2": "LV",
+    "name": "Latvia",
+    "displayName": "Latvia",
+    "centroidLon": 24.6,
+    "centroidLat": 56.9
+  },
+  {
+    "iso3": "LBN",
+    "iso2": "LB",
+    "name": "Lebanon",
+    "displayName": "Lebanon",
+    "centroidLon": 35.9,
+    "centroidLat": 33.9
+  },
+  {
+    "iso3": "LBR",
+    "iso2": "LR",
+    "name": "Liberia",
+    "displayName": "Liberia",
+    "centroidLon": -9.4,
+    "centroidLat": 6.4
+  },
+  {
+    "iso3": "LBY",
+    "iso2": "LY",
+    "name": "Libya",
+    "displayName": "Libya",
+    "centroidLon": 17.2,
+    "centroidLat": 27.1
+  },
+  {
+    "iso3": "LTU",
+    "iso2": "LT",
+    "name": "Lithuania",
+    "displayName": "Lithuania",
+    "centroidLon": 23.9,
+    "centroidLat": 55.2
+  },
+  {
+    "iso3": "MKD",
+    "iso2": "MK",
+    "name": "North Macedonia",
+    "displayName": "North Macedonia",
+    "centroidLon": 21.7,
+    "centroidLat": 41.6
+  },
+  {
+    "iso3": "MDG",
+    "iso2": "MG",
+    "name": "Madagascar",
+    "displayName": "Madagascar",
+    "centroidLon": 46.9,
+    "centroidLat": -19.4
+  },
+  {
+    "iso3": "MWI",
+    "iso2": "MW",
+    "name": "Malawi",
+    "displayName": "Malawi",
+    "centroidLon": 34.3,
+    "centroidLat": -13.2
+  },
+  {
+    "iso3": "MYS",
+    "iso2": "MY",
+    "name": "Malaysia",
+    "displayName": "Malaysia",
+    "centroidLon": 109.7,
+    "centroidLat": 4.2
+  },
+  {
+    "iso3": "MDV",
+    "iso2": "MV",
+    "name": "Maldives",
+    "displayName": "Maldives",
+    "centroidLon": 73.2,
+    "centroidLat": 3.2
+  },
+  {
+    "iso3": "MLI",
+    "iso2": "ML",
+    "name": "Mali",
+    "displayName": "Mali",
+    "centroidLon": -2,
+    "centroidLat": 17.6
+  },
+  {
+    "iso3": "MRT",
+    "iso2": "MR",
+    "name": "Mauritania",
+    "displayName": "Mauritania",
+    "centroidLon": -10.9,
+    "centroidLat": 20.3
+  },
+  {
+    "iso3": "MEX",
+    "iso2": "MX",
+    "name": "Mexico",
+    "displayName": "Mexico",
+    "centroidLon": -102.6,
+    "centroidLat": 23.9
+  },
+  {
+    "iso3": "MDA",
+    "iso2": "MD",
+    "name": "Moldova",
+    "displayName": "Moldova",
+    "centroidLon": 28.4,
+    "centroidLat": 47.4
+  },
+  {
+    "iso3": "MNG",
+    "iso2": "MN",
+    "name": "Mongolia",
+    "displayName": "Mongolia",
+    "centroidLon": 103.8,
+    "centroidLat": 46.9
+  },
+  {
+    "iso3": "MNE",
+    "iso2": "ME",
+    "name": "Montenegro",
+    "displayName": "Montenegro",
+    "centroidLon": 19.4,
+    "centroidLat": 42.8
+  },
+  {
+    "iso3": "MAR",
+    "iso2": "MA",
+    "name": "Morocco",
+    "displayName": "Morocco",
+    "centroidLon": -7.1,
+    "centroidLat": 31.8
+  },
+  {
+    "iso3": "MOZ",
+    "iso2": "MZ",
+    "name": "Mozambique",
+    "displayName": "Mozambique",
+    "centroidLon": 35.5,
+    "centroidLat": -18.7
+  },
+  {
+    "iso3": "NAM",
+    "iso2": "NA",
+    "name": "Namibia",
+    "displayName": "Namibia",
+    "centroidLon": 18.5,
+    "centroidLat": -22.3
+  },
+  {
+    "iso3": "NPL",
+    "iso2": "NP",
+    "name": "Nepal",
+    "displayName": "Nepal",
+    "centroidLon": 84.1,
+    "centroidLat": 28.4
+  },
+  {
+    "iso3": "NLD",
+    "iso2": "NL",
+    "name": "Netherlands",
+    "displayName": "Netherlands",
+    "centroidLon": 5.3,
+    "centroidLat": 52.3
+  },
+  {
+    "iso3": "NZL",
+    "iso2": "NZ",
+    "name": "New Zealand",
+    "displayName": "New Zealand",
+    "centroidLon": 172.8,
+    "centroidLat": -41.5
+  },
+  {
+    "iso3": "NIC",
+    "iso2": "NI",
+    "name": "Nicaragua",
+    "displayName": "Nicaragua",
+    "centroidLon": -85.1,
+    "centroidLat": 12.8
+  },
+  {
+    "iso3": "NER",
+    "iso2": "NE",
+    "name": "Niger",
+    "displayName": "Niger",
+    "centroidLon": 8.1,
+    "centroidLat": 17.6
+  },
+  {
+    "iso3": "NGA",
+    "iso2": "NG",
+    "name": "Nigeria",
+    "displayName": "Nigeria",
+    "centroidLon": 8.7,
+    "centroidLat": 9.1
+  },
+  {
+    "iso3": "NOR",
+    "iso2": "NO",
+    "name": "Norway",
+    "displayName": "Norway",
+    "centroidLon": 8.5,
+    "centroidLat": 64.6
+  },
+  {
+    "iso3": "OMN",
+    "iso2": "OM",
+    "name": "Oman",
+    "displayName": "Oman",
+    "centroidLon": 57.6,
+    "centroidLat": 21.5
+  },
+  {
+    "iso3": "PAK",
+    "iso2": "PK",
+    "name": "Pakistan",
+    "displayName": "Pakistan",
+    "centroidLon": 69.3,
+    "centroidLat": 30.4
+  },
+  {
+    "iso3": "PAN",
+    "iso2": "PA",
+    "name": "Panama",
+    "displayName": "Panama",
+    "centroidLon": -80.8,
+    "centroidLat": 8.5
+  },
+  {
+    "iso3": "PNG",
+    "iso2": "PG",
+    "name": "Papua New Guinea",
+    "displayName": "Papua New Guinea",
+    "centroidLon": 144.2,
+    "centroidLat": -6.3
+  },
+  {
+    "iso3": "PRY",
+    "iso2": "PY",
+    "name": "Paraguay",
+    "displayName": "Paraguay",
+    "centroidLon": -58.4,
+    "centroidLat": -23.4
+  },
+  {
+    "iso3": "PER",
+    "iso2": "PE",
+    "name": "Peru",
+    "displayName": "Peru",
+    "centroidLon": -75,
+    "centroidLat": -9.2
+  },
+  {
+    "iso3": "PHL",
+    "iso2": "PH",
+    "name": "Philippines",
+    "displayName": "Philippines",
+    "centroidLon": 122.9,
+    "centroidLat": 12.9
+  },
+  {
+    "iso3": "POL",
+    "iso2": "PL",
+    "name": "Poland",
+    "displayName": "Poland",
+    "centroidLon": 19.1,
+    "centroidLat": 51.9
+  },
+  {
+    "iso3": "PRT",
+    "iso2": "PT",
+    "name": "Portugal",
+    "displayName": "Portugal",
+    "centroidLon": -8.2,
+    "centroidLat": 39.4
+  },
+  {
+    "iso3": "PSE",
+    "iso2": "PS",
+    "name": "Palestinian Territories",
+    "displayName": "Palestinian Territories",
+    "centroidLon": 35.2,
+    "centroidLat": 31.9
+  },
+  {
+    "iso3": "QAT",
+    "iso2": "QA",
+    "name": "Qatar",
+    "displayName": "Qatar",
+    "centroidLon": 51.2,
+    "centroidLat": 25.4
+  },
+  {
+    "iso3": "ROU",
+    "iso2": "RO",
+    "name": "Romania",
+    "displayName": "Romania",
+    "centroidLon": 24.9,
+    "centroidLat": 45.9
+  },
+  {
+    "iso3": "RUS",
+    "iso2": "RU",
+    "name": "Russia",
+    "displayName": "Russia",
+    "centroidLon": 105,
+    "centroidLat": 61
+  },
+  {
+    "iso3": "RWA",
+    "iso2": "RW",
+    "name": "Rwanda",
+    "displayName": "Rwanda",
+    "centroidLon": 29.9,
+    "centroidLat": -1.9
+  },
+  {
+    "iso3": "SAU",
+    "iso2": "SA",
+    "name": "Saudi Arabia",
+    "displayName": "Saudi Arabia",
+    "centroidLon": 45,
+    "centroidLat": 24
+  },
+  {
+    "iso3": "SEN",
+    "iso2": "SN",
+    "name": "Senegal",
+    "displayName": "Senegal",
+    "centroidLon": -14.5,
+    "centroidLat": 14.5
+  },
+  {
+    "iso3": "SRB",
+    "iso2": "RS",
+    "name": "Serbia",
+    "displayName": "Serbia",
+    "centroidLon": 20.9,
+    "centroidLat": 44
+  },
+  {
+    "iso3": "SLE",
+    "iso2": "SL",
+    "name": "Sierra Leone",
+    "displayName": "Sierra Leone",
+    "centroidLon": -11.8,
+    "centroidLat": 8.5
+  },
+  {
+    "iso3": "SGP",
+    "iso2": "SG",
+    "name": "Singapore",
+    "displayName": "Singapore",
+    "centroidLon": 103.8,
+    "centroidLat": 1.4
+  },
+  {
+    "iso3": "SVK",
+    "iso2": "SK",
+    "name": "Slovakia",
+    "displayName": "Slovakia",
+    "centroidLon": 19.7,
+    "centroidLat": 48.7
+  },
+  {
+    "iso3": "SVN",
+    "iso2": "SI",
+    "name": "Slovenia",
+    "displayName": "Slovenia",
+    "centroidLon": 14.8,
+    "centroidLat": 46.1
+  },
+  {
+    "iso3": "SOM",
+    "iso2": "SO",
+    "name": "Somalia",
+    "displayName": "Somalia",
+    "centroidLon": 46.2,
+    "centroidLat": 5.2
+  },
+  {
+    "iso3": "ZAF",
+    "iso2": "ZA",
+    "name": "South Africa",
+    "displayName": "South Africa",
+    "centroidLon": 25.1,
+    "centroidLat": -29
+  },
+  {
+    "iso3": "SSD",
+    "iso2": "SS",
+    "name": "South Sudan",
+    "displayName": "South Sudan",
+    "centroidLon": 31.3,
+    "centroidLat": 7.9
+  },
+  {
+    "iso3": "ESP",
+    "iso2": "ES",
+    "name": "Spain",
+    "displayName": "Spain",
+    "centroidLon": -3.7,
+    "centroidLat": 40.2
+  },
+  {
+    "iso3": "LKA",
+    "iso2": "LK",
+    "name": "Sri Lanka",
+    "displayName": "Sri Lanka",
+    "centroidLon": 80.7,
+    "centroidLat": 7.9
+  },
+  {
+    "iso3": "SDN",
+    "iso2": "SD",
+    "name": "Sudan",
+    "displayName": "Sudan",
+    "centroidLon": 30.2,
+    "centroidLat": 15.6
+  },
+  {
+    "iso3": "SWZ",
+    "iso2": "SZ",
+    "name": "Swaziland",
+    "displayName": "Eswatini",
+    "centroidLon": 31.5,
+    "centroidLat": -26.5
+  },
+  {
+    "iso3": "SWE",
+    "iso2": "SE",
+    "name": "Sweden",
+    "displayName": "Sweden",
+    "centroidLon": 17.6,
+    "centroidLat": 62.2
+  },
+  {
+    "iso3": "CHE",
+    "iso2": "CH",
+    "name": "Switzerland",
+    "displayName": "Switzerland",
+    "centroidLon": 8.2,
+    "centroidLat": 46.8
+  },
+  {
+    "iso3": "SYR",
+    "iso2": "SY",
+    "name": "Syria",
+    "displayName": "Syria",
+    "centroidLon": 38.5,
+    "centroidLat": 35
+  },
+  {
+    "iso3": "TWN",
+    "iso2": "TW",
+    "name": "Taiwan",
+    "displayName": "Taiwan",
+    "centroidLon": 121,
+    "centroidLat": 23.7
+  },
+  {
+    "iso3": "TJK",
+    "iso2": "TJ",
+    "name": "Tajikistan",
+    "displayName": "Tajikistan",
+    "centroidLon": 71.3,
+    "centroidLat": 38.9
+  },
+  {
+    "iso3": "TZA",
+    "iso2": "TZ",
+    "name": "Tanzania",
+    "displayName": "Tanzania",
+    "centroidLon": 35,
+    "centroidLat": -6.4
+  },
+  {
+    "iso3": "THA",
+    "iso2": "TH",
+    "name": "Thailand",
+    "displayName": "Thailand",
+    "centroidLon": 100.9,
+    "centroidLat": 15.9
+  },
+  {
+    "iso3": "TGO",
+    "iso2": "TG",
+    "name": "Togo",
+    "displayName": "Togo",
+    "centroidLon": 1.1,
+    "centroidLat": 8.6
+  },
+  {
+    "iso3": "TTO",
+    "iso2": "TT",
+    "name": "Trinidad and Tobago",
+    "displayName": "Trinidad and Tobago",
+    "centroidLon": -61.2,
+    "centroidLat": 10.7
+  },
+  {
+    "iso3": "TUN",
+    "iso2": "TN",
+    "name": "Tunisia",
+    "displayName": "Tunisia",
+    "centroidLon": 9.6,
+    "centroidLat": 33.9
+  },
+  {
+    "iso3": "TUR",
+    "iso2": "TR",
+    "name": "Turkey",
+    "displayName": "Turkey",
+    "centroidLon": 35.2,
+    "centroidLat": 38.9
+  },
+  {
+    "iso3": "TKM",
+    "iso2": "TM",
+    "name": "Turkmenistan",
+    "displayName": "Turkmenistan",
+    "centroidLon": 58.4,
+    "centroidLat": 38.9
+  },
+  {
+    "iso3": "UGA",
+    "iso2": "UG",
+    "name": "Uganda",
+    "displayName": "Uganda",
+    "centroidLon": 32.3,
+    "centroidLat": 1.4
+  },
+  {
+    "iso3": "UKR",
+    "iso2": "UA",
+    "name": "Ukraine",
+    "displayName": "Ukraine",
+    "centroidLon": 31.2,
+    "centroidLat": 48.4
+  },
+  {
+    "iso3": "ARE",
+    "iso2": "AE",
+    "name": "United Arab Emirates",
+    "displayName": "United Arab Emirates",
+    "centroidLon": 54,
+    "centroidLat": 24
+  },
+  {
+    "iso3": "GBR",
+    "iso2": "GB",
+    "name": "United Kingdom",
+    "displayName": "United Kingdom",
+    "centroidLon": -3.4,
+    "centroidLat": 55.4
+  },
+  {
+    "iso3": "USA",
+    "iso2": "US",
+    "name": "United States",
+    "displayName": "United States",
+    "centroidLon": -98.5,
+    "centroidLat": 39.5
+  },
+  {
+    "iso3": "URY",
+    "iso2": "UY",
+    "name": "Uruguay",
+    "displayName": "Uruguay",
+    "centroidLon": -56,
+    "centroidLat": -32.8
+  },
+  {
+    "iso3": "UZB",
+    "iso2": "UZ",
+    "name": "Uzbekistan",
+    "displayName": "Uzbekistan",
+    "centroidLon": 63.2,
+    "centroidLat": 41.4
+  },
+  {
+    "iso3": "VEN",
+    "iso2": "VE",
+    "name": "Venezuela",
+    "displayName": "Venezuela",
+    "centroidLon": -66.6,
+    "centroidLat": 8
+  },
+  {
+    "iso3": "VNM",
+    "iso2": "VN",
+    "name": "Vietnam",
+    "displayName": "Vietnam",
+    "centroidLon": 108,
+    "centroidLat": 14.1
+  },
+  {
+    "iso3": "YEM",
+    "iso2": "YE",
+    "name": "Yemen",
+    "displayName": "Yemen",
+    "centroidLon": 48.5,
+    "centroidLat": 15.6
+  },
+  {
+    "iso3": "ZMB",
+    "iso2": "ZM",
+    "name": "Zambia",
+    "displayName": "Zambia",
+    "centroidLon": 27.8,
+    "centroidLat": -13.1
+  },
+  {
+    "iso3": "ZWE",
+    "iso2": "ZW",
+    "name": "Zimbabwe",
+    "displayName": "Zimbabwe",
+    "centroidLon": 29.9,
+    "centroidLat": -19
+  },
+  {
+    "iso3": "PRK",
+    "iso2": "KP",
+    "name": "North Korea",
+    "displayName": "North Korea",
+    "centroidLon": 127.5,
+    "centroidLat": 40.3
+  },
+  {
+    "iso3": "KOR",
+    "iso2": "KR",
+    "name": "South Korea",
+    "displayName": "South Korea",
+    "centroidLon": 127.8,
+    "centroidLat": 36.5
+  },
+  {
+    "iso3": "XKX",
+    "iso2": "XK",
+    "name": "Kosovo",
+    "displayName": "Kosovo",
+    "centroidLon": 20.9,
+    "centroidLat": 42.6
+  },
+  {
+    "iso3": "GEI",
+    "iso2": "DE",
+    "name": "German Empire",
+    "displayName": "German Empire",
+    "centroidLon": 13.4,
+    "centroidLat": 52,
+    "isHistorical": true,
+    "yearFrom": 1871,
+    "yearTo": 1918,
+    "successorStates": [
+      "DEU",
+      "POL"
+    ]
+  },
+  {
+    "iso3": "NAZ",
+    "iso2": "DE",
+    "name": "Nazi Germany",
+    "displayName": "Nazi Germany (Third Reich)",
+    "centroidLon": 13.4,
+    "centroidLat": 52.5,
+    "isHistorical": true,
+    "yearFrom": 1933,
+    "yearTo": 1945,
+    "successorStates": [
+      "DEU",
+      "AUT"
+    ]
+  },
+  {
+    "iso3": "AHU",
+    "iso2": "AU",
+    "name": "Austria-Hungary",
+    "displayName": "Austria-Hungary",
+    "centroidLon": 17.1,
+    "centroidLat": 47.5,
+    "isHistorical": true,
+    "yearFrom": 1867,
+    "yearTo": 1918,
+    "successorStates": [
+      "AUT",
+      "HUN",
+      "CZE",
+      "SVK",
+      "SVN",
+      "HRV",
+      "BIH",
+      "SRB"
+    ]
+  },
+  {
+    "iso3": "OTT",
+    "iso2": "TR",
+    "name": "Ottoman Empire",
+    "displayName": "Ottoman Empire",
+    "centroidLon": 35,
+    "centroidLat": 38,
+    "isHistorical": true,
+    "yearFrom": 1299,
+    "yearTo": 1922,
+    "successorStates": [
+      "TUR",
+      "IRQ",
+      "SYR",
+      "JOR",
+      "ISR",
+      "LBN",
+      "SAU"
+    ]
+  },
+  {
+    "iso3": "REI",
+    "iso2": "RU",
+    "name": "Russian Empire",
+    "displayName": "Russian Empire",
+    "centroidLon": 55,
+    "centroidLat": 57,
+    "isHistorical": true,
+    "yearFrom": 1721,
+    "yearTo": 1917,
+    "successorStates": [
+      "RUS",
+      "UKR",
+      "BLR",
+      "FIN",
+      "EST",
+      "LVA",
+      "LTU",
+      "POL"
+    ]
+  },
+  {
+    "iso3": "JAI",
+    "iso2": "JP",
+    "name": "Japanese Empire",
+    "displayName": "Japanese Empire",
+    "centroidLon": 139.7,
+    "centroidLat": 35.7,
+    "isHistorical": true,
+    "yearFrom": 1868,
+    "yearTo": 1945,
+    "successorStates": [
+      "JPN"
+    ]
+  },
+  {
+    "iso3": "IFA",
+    "iso2": "IT",
+    "name": "Fascist Italy",
+    "displayName": "Fascist Italy",
+    "centroidLon": 12.5,
+    "centroidLat": 42.5,
+    "isHistorical": true,
+    "yearFrom": 1922,
+    "yearTo": 1943,
+    "successorStates": [
+      "ITA"
+    ]
+  },
+  {
+    "iso3": "CSR",
+    "iso2": "CN",
+    "name": "Republic of China",
+    "displayName": "Nationalist China",
+    "centroidLon": 112,
+    "centroidLat": 33,
+    "isHistorical": true,
+    "yearFrom": 1912,
+    "yearTo": 1949,
+    "successorStates": [
+      "TWN"
+    ]
+  },
+  {
+    "iso3": "SUN",
+    "iso2": "SU",
+    "name": "Soviet Union",
+    "displayName": "Soviet Union",
+    "centroidLon": 105,
+    "centroidLat": 61,
+    "isHistorical": true,
+    "yearFrom": 1922,
+    "yearTo": 1991,
+    "successorStates": [
+      "RUS",
+      "UKR",
+      "BLR",
+      "KAZ",
+      "UZB",
+      "ARM",
+      "AZE",
+      "GEO"
+    ]
+  },
+  {
+    "iso3": "DDR",
+    "iso2": "DD",
+    "name": "East Germany",
+    "displayName": "East Germany (DDR)",
+    "centroidLon": 13.4,
+    "centroidLat": 52.5,
+    "isHistorical": true,
+    "yearFrom": 1949,
+    "yearTo": 1990,
+    "successorStates": [
+      "DEU"
+    ]
+  },
+  {
+    "iso3": "YUG",
+    "iso2": "YU",
+    "name": "Yugoslavia",
+    "displayName": "Yugoslavia",
+    "centroidLon": 20.5,
+    "centroidLat": 44,
+    "isHistorical": true,
+    "yearFrom": 1918,
+    "yearTo": 1992,
+    "successorStates": [
+      "SVN",
+      "HRV",
+      "BIH",
+      "SRB",
+      "MKD",
+      "MNE"
+    ]
+  }
 ]

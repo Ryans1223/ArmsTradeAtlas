@@ -6,19 +6,23 @@
     "topRecipients": [
       {
         "iso3": "ISR",
-        "tiv": 2350
-      },
-      {
-        "iso3": "IRN",
-        "tiv": 2204
-      },
-      {
-        "iso3": "PAK",
-        "tiv": 720
+        "tiv": 9530
       },
       {
         "iso3": "KOR",
-        "tiv": 480
+        "tiv": 9350
+      },
+      {
+        "iso3": "JPN",
+        "tiv": 6930
+      },
+      {
+        "iso3": "TWN",
+        "tiv": 6660
+      },
+      {
+        "iso3": "VNM",
+        "tiv": 6040
       }
     ]
   },
@@ -33,15 +37,19 @@
       },
       {
         "iso3": "ISR",
-        "tiv": 5398
+        "tiv": 16628
       },
       {
         "iso3": "SAU",
-        "tiv": 2760
+        "tiv": 16330
       },
       {
         "iso3": "KOR",
-        "tiv": 2280
+        "tiv": 9560
+      },
+      {
+        "iso3": "TWN",
+        "tiv": 6640
       }
     ]
   },
@@ -51,12 +59,24 @@
     "topSuppliers": [],
     "topRecipients": [
       {
-        "iso3": "EGY",
-        "tiv": 1240
+        "iso3": "CHN",
+        "tiv": 8340
       },
       {
-        "iso3": "SYR",
-        "tiv": 300
+        "iso3": "DDR",
+        "tiv": 3950
+      },
+      {
+        "iso3": "EGY",
+        "tiv": 3680
+      },
+      {
+        "iso3": "POL",
+        "tiv": 3550
+      },
+      {
+        "iso3": "CSK",
+        "tiv": 2930
       }
     ]
   },
@@ -66,20 +86,24 @@
     "topSuppliers": [],
     "topRecipients": [
       {
+        "iso3": "IND",
+        "tiv": 8610
+      },
+      {
         "iso3": "EGY",
-        "tiv": 3020
+        "tiv": 8010
       },
       {
         "iso3": "SYR",
-        "tiv": 1950
+        "tiv": 6020
       },
       {
-        "iso3": "IND",
-        "tiv": 1740
+        "iso3": "IRQ",
+        "tiv": 4420
       },
       {
-        "iso3": "VNM",
-        "tiv": 500
+        "iso3": "DDR",
+        "tiv": 4010
       }
     ]
   },
@@ -90,15 +114,23 @@
     "topRecipients": [
       {
         "iso3": "SYR",
-        "tiv": 3876
+        "tiv": 7806
+      },
+      {
+        "iso3": "IND",
+        "tiv": 7100
       },
       {
         "iso3": "EGY",
-        "tiv": 2960
+        "tiv": 5010
       },
       {
-        "iso3": "AGO",
-        "tiv": 1455
+        "iso3": "IRQ",
+        "tiv": 4550
+      },
+      {
+        "iso3": "VNM",
+        "tiv": 4190
       }
     ]
   },
@@ -108,19 +140,36 @@
     "topSuppliers": [],
     "topRecipients": [
       {
+        "iso3": "IRQ",
+        "tiv": 9830
+      },
+      {
+        "iso3": "IND",
+        "tiv": 7040
+      },
+      {
         "iso3": "SYR",
-        "tiv": 3030
+        "tiv": 6680
+      },
+      {
+        "iso3": "AFG",
+        "tiv": 4730
       },
       {
         "iso3": "AGO",
-        "tiv": 1095
+        "tiv": 4535
       }
     ]
   },
   {
     "iso3": "CUB",
     "decade": 1970,
-    "topSuppliers": [],
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 2020
+      }
+    ],
     "topRecipients": [
       {
         "iso3": "AGO",
@@ -131,7 +180,12 @@
   {
     "iso3": "CUB",
     "decade": 1980,
-    "topSuppliers": [],
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 1950
+      }
+    ],
     "topRecipients": [
       {
         "iso3": "AGO",
@@ -145,12 +199,24 @@
     "topSuppliers": [],
     "topRecipients": [
       {
-        "iso3": "ISR",
-        "tiv": 3600
+        "iso3": "SAU",
+        "tiv": 19600
       },
       {
-        "iso3": "AGO",
-        "tiv": 235
+        "iso3": "ISR",
+        "tiv": 18880
+      },
+      {
+        "iso3": "EGY",
+        "tiv": 17180
+      },
+      {
+        "iso3": "JPN",
+        "tiv": 4270
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 4250
       }
     ]
   },
@@ -160,12 +226,24 @@
     "topSuppliers": [],
     "topRecipients": [
       {
-        "iso3": "UKR",
-        "tiv": 3781
+        "iso3": "SAU",
+        "tiv": 14200
       },
       {
-        "iso3": "ISR",
-        "tiv": 330
+        "iso3": "UKR",
+        "tiv": 9731
+      },
+      {
+        "iso3": "ARE",
+        "tiv": 7430
+      },
+      {
+        "iso3": "QAT",
+        "tiv": 6140
+      },
+      {
+        "iso3": "JPN",
+        "tiv": 5330
       }
     ]
   },
@@ -176,7 +254,23 @@
     "topRecipients": [
       {
         "iso3": "UKR",
-        "tiv": 356
+        "tiv": 2436
+      },
+      {
+        "iso3": "GRC",
+        "tiv": 1660
+      },
+      {
+        "iso3": "TUR",
+        "tiv": 1420
+      },
+      {
+        "iso3": "KOR",
+        "tiv": 1070
+      },
+      {
+        "iso3": "ISR",
+        "tiv": 1020
       }
     ]
   },
@@ -186,8 +280,24 @@
     "topSuppliers": [],
     "topRecipients": [
       {
-        "iso3": "UKR",
-        "tiv": 210
+        "iso3": "SAU",
+        "tiv": 4960
+      },
+      {
+        "iso3": "QAT",
+        "tiv": 2800
+      },
+      {
+        "iso3": "ARE",
+        "tiv": 1610
+      },
+      {
+        "iso3": "KWT",
+        "tiv": 1160
+      },
+      {
+        "iso3": "OMN",
+        "tiv": 1130
       }
     ]
   },
@@ -198,11 +308,23 @@
     "topRecipients": [
       {
         "iso3": "SAU",
-        "tiv": 2880
+        "tiv": 17950
       },
       {
         "iso3": "ISR",
-        "tiv": 2200
+        "tiv": 16950
+      },
+      {
+        "iso3": "ARE",
+        "tiv": 6840
+      },
+      {
+        "iso3": "EGY",
+        "tiv": 6470
+      },
+      {
+        "iso3": "JPN",
+        "tiv": 4150
       }
     ]
   },
@@ -212,31 +334,73 @@
     "topSuppliers": [],
     "topRecipients": [
       {
-        "iso3": "ISR",
-        "tiv": 4500
+        "iso3": "SAU",
+        "tiv": 27030
       },
       {
-        "iso3": "SAU",
-        "tiv": 3360
+        "iso3": "ARE",
+        "tiv": 13800
+      },
+      {
+        "iso3": "ISR",
+        "tiv": 12150
+      },
+      {
+        "iso3": "JPN",
+        "tiv": 10180
+      },
+      {
+        "iso3": "AUS",
+        "tiv": 9550
       }
     ]
   },
   {
     "iso3": "FRA",
     "decade": 1950,
-    "topSuppliers": [],
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 4000
+      }
+    ],
     "topRecipients": [
+      {
+        "iso3": "IND",
+        "tiv": 2690
+      },
       {
         "iso3": "ISR",
         "tiv": 1140
+      },
+      {
+        "iso3": "PAK",
+        "tiv": 860
       }
     ]
   },
   {
     "iso3": "FRA",
     "decade": 1960,
-    "topSuppliers": [],
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 1670
+      }
+    ],
     "topRecipients": [
+      {
+        "iso3": "IND",
+        "tiv": 3750
+      },
+      {
+        "iso3": "PAK",
+        "tiv": 2100
+      },
+      {
+        "iso3": "TWN",
+        "tiv": 1340
+      },
       {
         "iso3": "ISR",
         "tiv": 1080
@@ -249,8 +413,24 @@
     "topSuppliers": [],
     "topRecipients": [
       {
-        "iso3": "PAK",
-        "tiv": 480
+        "iso3": "KOR",
+        "tiv": 12000
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 6810
+      },
+      {
+        "iso3": "TUR",
+        "tiv": 5540
+      },
+      {
+        "iso3": "GRC",
+        "tiv": 4710
+      },
+      {
+        "iso3": "JPN",
+        "tiv": 4600
       }
     ]
   },
@@ -260,8 +440,24 @@
     "topSuppliers": [],
     "topRecipients": [
       {
+        "iso3": "IND",
+        "tiv": 10180
+      },
+      {
         "iso3": "SAU",
-        "tiv": 3750
+        "tiv": 9400
+      },
+      {
+        "iso3": "ARE",
+        "tiv": 5760
+      },
+      {
+        "iso3": "EGY",
+        "tiv": 4710
+      },
+      {
+        "iso3": "QAT",
+        "tiv": 3320
       }
     ]
   },
@@ -272,7 +468,19 @@
     "topRecipients": [
       {
         "iso3": "SAU",
-        "tiv": 5400
+        "tiv": 12200
+      },
+      {
+        "iso3": "ARE",
+        "tiv": 3220
+      },
+      {
+        "iso3": "KWT",
+        "tiv": 2260
+      },
+      {
+        "iso3": "OMN",
+        "tiv": 2150
       }
     ]
   },
@@ -282,8 +490,24 @@
     "topSuppliers": [],
     "topRecipients": [
       {
+        "iso3": "IND",
+        "tiv": 16000
+      },
+      {
         "iso3": "CHN",
-        "tiv": 2052
+        "tiv": 13732
+      },
+      {
+        "iso3": "DZA",
+        "tiv": 7390
+      },
+      {
+        "iso3": "VNM",
+        "tiv": 6190
+      },
+      {
+        "iso3": "IRN",
+        "tiv": 1770
       }
     ]
   },
@@ -293,12 +517,24 @@
     "topSuppliers": [],
     "topRecipients": [
       {
-        "iso3": "CHN",
-        "tiv": 1920
+        "iso3": "IND",
+        "tiv": 15070
       },
       {
-        "iso3": "IND",
-        "tiv": 1920
+        "iso3": "CHN",
+        "tiv": 10020
+      },
+      {
+        "iso3": "DZA",
+        "tiv": 5910
+      },
+      {
+        "iso3": "VNM",
+        "tiv": 4820
+      },
+      {
+        "iso3": "IRN",
+        "tiv": 1610
       }
     ]
   },
@@ -309,7 +545,1877 @@
     "topRecipients": [
       {
         "iso3": "IND",
-        "tiv": 1728
+        "tiv": 20398
+      },
+      {
+        "iso3": "SYR",
+        "tiv": 6760
+      },
+      {
+        "iso3": "CHN",
+        "tiv": 6370
+      },
+      {
+        "iso3": "DZA",
+        "tiv": 5170
+      },
+      {
+        "iso3": "VNM",
+        "tiv": 4170
+      }
+    ]
+  },
+  {
+    "iso3": "GEI",
+    "decade": 1910,
+    "topSuppliers": [
+      {
+        "iso3": "AHU",
+        "tiv": 1020
+      },
+      {
+        "iso3": "OTT",
+        "tiv": 250
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "AHU",
+        "tiv": 3440
+      },
+      {
+        "iso3": "OTT",
+        "tiv": 1780
+      }
+    ]
+  },
+  {
+    "iso3": "AHU",
+    "decade": 1910,
+    "topSuppliers": [
+      {
+        "iso3": "GEI",
+        "tiv": 3440
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "GEI",
+        "tiv": 1020
+      },
+      {
+        "iso3": "OTT",
+        "tiv": 380
+      }
+    ]
+  },
+  {
+    "iso3": "OTT",
+    "decade": 1910,
+    "topSuppliers": [
+      {
+        "iso3": "GEI",
+        "tiv": 1780
+      },
+      {
+        "iso3": "AHU",
+        "tiv": 380
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "GEI",
+        "tiv": 250
+      }
+    ]
+  },
+  {
+    "iso3": "GBR",
+    "decade": 1910,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 6430
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 1510
+      },
+      {
+        "iso3": "JAI",
+        "tiv": 400
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "FRA",
+        "tiv": 2490
+      },
+      {
+        "iso3": "REI",
+        "tiv": 1870
+      },
+      {
+        "iso3": "IFA",
+        "tiv": 1050
+      },
+      {
+        "iso3": "ROU",
+        "tiv": 360
+      },
+      {
+        "iso3": "SRB",
+        "tiv": 310
+      }
+    ]
+  },
+  {
+    "iso3": "FRA",
+    "decade": 1910,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 5220
+      },
+      {
+        "iso3": "GBR",
+        "tiv": 2490
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "GBR",
+        "tiv": 1510
+      },
+      {
+        "iso3": "REI",
+        "tiv": 840
+      },
+      {
+        "iso3": "IFA",
+        "tiv": 790
+      }
+    ]
+  },
+  {
+    "iso3": "USA",
+    "decade": 1910,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "GBR",
+        "tiv": 6430
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 5220
+      },
+      {
+        "iso3": "IFA",
+        "tiv": 1010
+      },
+      {
+        "iso3": "REI",
+        "tiv": 460
+      }
+    ]
+  },
+  {
+    "iso3": "JAI",
+    "decade": 1910,
+    "topSuppliers": [
+      {
+        "iso3": "GBR",
+        "tiv": 160
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "REI",
+        "tiv": 420
+      },
+      {
+        "iso3": "GBR",
+        "tiv": 400
+      }
+    ]
+  },
+  {
+    "iso3": "USA",
+    "decade": 1920,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "DEU",
+        "tiv": 500
+      },
+      {
+        "iso3": "SUN",
+        "tiv": 370
+      },
+      {
+        "iso3": "CSR",
+        "tiv": 310
+      }
+    ]
+  },
+  {
+    "iso3": "USA",
+    "decade": 1930,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "CSR",
+        "tiv": 1340
+      },
+      {
+        "iso3": "SUN",
+        "tiv": 850
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 240
+      }
+    ]
+  },
+  {
+    "iso3": "DEU",
+    "decade": 1920,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 500
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "SUN",
+        "tiv": 1200
+      }
+    ]
+  },
+  {
+    "iso3": "DEU",
+    "decade": 1930,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 240
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "ESP",
+        "tiv": 1260
+      },
+      {
+        "iso3": "IFA",
+        "tiv": 750
+      },
+      {
+        "iso3": "SUN",
+        "tiv": 630
+      },
+      {
+        "iso3": "AUT",
+        "tiv": 200
+      }
+    ]
+  },
+  {
+    "iso3": "GBR",
+    "decade": 1920,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "JAI",
+        "tiv": 590
+      }
+    ]
+  },
+  {
+    "iso3": "SUN",
+    "decade": 1930,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 850
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 630
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "ESP",
+        "tiv": 1060
+      }
+    ]
+  },
+  {
+    "iso3": "IFA",
+    "decade": 1930,
+    "topSuppliers": [
+      {
+        "iso3": "DEU",
+        "tiv": 750
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "ESP",
+        "tiv": 850
+      }
+    ]
+  },
+  {
+    "iso3": "USA",
+    "decade": 1940,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "GBR",
+        "tiv": 25060
+      },
+      {
+        "iso3": "SUN",
+        "tiv": 17570
+      },
+      {
+        "iso3": "CSR",
+        "tiv": 7480
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 6380
+      },
+      {
+        "iso3": "AUS",
+        "tiv": 3790
+      }
+    ]
+  },
+  {
+    "iso3": "GBR",
+    "decade": 1940,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 25060
+      },
+      {
+        "iso3": "CAN",
+        "tiv": 4830
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "SUN",
+        "tiv": 6530
+      },
+      {
+        "iso3": "EGY",
+        "tiv": 810
+      },
+      {
+        "iso3": "JOR",
+        "tiv": 760
+      },
+      {
+        "iso3": "IRQ",
+        "tiv": 570
+      }
+    ]
+  },
+  {
+    "iso3": "CAN",
+    "decade": 1940,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "GBR",
+        "tiv": 4830
+      },
+      {
+        "iso3": "SUN",
+        "tiv": 1260
+      }
+    ]
+  },
+  {
+    "iso3": "NAZ",
+    "decade": 1930,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "JAI",
+        "tiv": 150
+      }
+    ]
+  },
+  {
+    "iso3": "NAZ",
+    "decade": 1940,
+    "topSuppliers": [
+      {
+        "iso3": "ROU",
+        "tiv": 740
+      },
+      {
+        "iso3": "IFA",
+        "tiv": 400
+      },
+      {
+        "iso3": "JAI",
+        "tiv": 230
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "IFA",
+        "tiv": 760
+      },
+      {
+        "iso3": "JAI",
+        "tiv": 580
+      }
+    ]
+  },
+  {
+    "iso3": "IFA",
+    "decade": 1940,
+    "topSuppliers": [
+      {
+        "iso3": "NAZ",
+        "tiv": 760
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "NAZ",
+        "tiv": 400
+      }
+    ]
+  },
+  {
+    "iso3": "JAI",
+    "decade": 1940,
+    "topSuppliers": [
+      {
+        "iso3": "NAZ",
+        "tiv": 580
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "NAZ",
+        "tiv": 230
+      }
+    ]
+  },
+  {
+    "iso3": "ROU",
+    "decade": 1940,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "NAZ",
+        "tiv": 740
+      }
+    ]
+  },
+  {
+    "iso3": "SUN",
+    "decade": 1940,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 17570
+      },
+      {
+        "iso3": "GBR",
+        "tiv": 6530
+      },
+      {
+        "iso3": "CAN",
+        "tiv": 1260
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "CHN",
+        "tiv": 2500
+      },
+      {
+        "iso3": "DDR",
+        "tiv": 2030
+      }
+    ]
+  },
+  {
+    "iso3": "CSK",
+    "decade": 1940,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "ISR",
+        "tiv": 700
+      }
+    ]
+  },
+  {
+    "iso3": "GBR",
+    "decade": 1950,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "AUS",
+        "tiv": 2550
+      },
+      {
+        "iso3": "IND",
+        "tiv": 2140
+      },
+      {
+        "iso3": "IRQ",
+        "tiv": 1360
+      },
+      {
+        "iso3": "KOR",
+        "tiv": 780
+      },
+      {
+        "iso3": "EGY",
+        "tiv": 590
+      }
+    ]
+  },
+  {
+    "iso3": "CHN",
+    "decade": 1950,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 8340
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "PRK",
+        "tiv": 1360
+      }
+    ]
+  },
+  {
+    "iso3": "AUS",
+    "decade": 1950,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 3520
+      },
+      {
+        "iso3": "GBR",
+        "tiv": 2550
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "KOR",
+        "tiv": 400
+      }
+    ]
+  },
+  {
+    "iso3": "CAN",
+    "decade": 1950,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "KOR",
+        "tiv": 340
+      }
+    ]
+  },
+  {
+    "iso3": "SUN",
+    "decade": 1990,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "IND",
+        "tiv": 1280
+      },
+      {
+        "iso3": "LBY",
+        "tiv": 760
+      },
+      {
+        "iso3": "AGO",
+        "tiv": 750
+      },
+      {
+        "iso3": "ETH",
+        "tiv": 630
+      },
+      {
+        "iso3": "DZA",
+        "tiv": 530
+      }
+    ]
+  },
+  {
+    "iso3": "CHN",
+    "decade": 1960,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 1020
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "PAK",
+        "tiv": 1440
+      },
+      {
+        "iso3": "VNM",
+        "tiv": 1230
+      },
+      {
+        "iso3": "PRK",
+        "tiv": 880
+      }
+    ]
+  },
+  {
+    "iso3": "CHN",
+    "decade": 1970,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "PAK",
+        "tiv": 3830
+      },
+      {
+        "iso3": "VNM",
+        "tiv": 1200
+      },
+      {
+        "iso3": "BGD",
+        "tiv": 1080
+      },
+      {
+        "iso3": "PRK",
+        "tiv": 920
+      }
+    ]
+  },
+  {
+    "iso3": "FRA",
+    "decade": 1980,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "IRQ",
+        "tiv": 13000
+      },
+      {
+        "iso3": "SAU",
+        "tiv": 4610
+      },
+      {
+        "iso3": "IND",
+        "tiv": 3790
+      },
+      {
+        "iso3": "TWN",
+        "tiv": 3190
+      },
+      {
+        "iso3": "GRC",
+        "tiv": 2870
+      }
+    ]
+  },
+  {
+    "iso3": "FRA",
+    "decade": 1990,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "ARE",
+        "tiv": 5910
+      },
+      {
+        "iso3": "SAU",
+        "tiv": 4960
+      },
+      {
+        "iso3": "IND",
+        "tiv": 3750
+      },
+      {
+        "iso3": "GRC",
+        "tiv": 2880
+      },
+      {
+        "iso3": "PAK",
+        "tiv": 2080
+      }
+    ]
+  },
+  {
+    "iso3": "CHN",
+    "decade": 1980,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "PAK",
+        "tiv": 5370
+      },
+      {
+        "iso3": "IRQ",
+        "tiv": 2550
+      },
+      {
+        "iso3": "BGD",
+        "tiv": 1810
+      },
+      {
+        "iso3": "IRN",
+        "tiv": 1220
+      },
+      {
+        "iso3": "SAU",
+        "tiv": 1000
+      }
+    ]
+  },
+  {
+    "iso3": "CHN",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "RUS",
+        "tiv": 13732
+      },
+      {
+        "iso3": "UKR",
+        "tiv": 610
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "PAK",
+        "tiv": 3830
+      },
+      {
+        "iso3": "IRN",
+        "tiv": 3240
+      },
+      {
+        "iso3": "MMR",
+        "tiv": 1990
+      },
+      {
+        "iso3": "BGD",
+        "tiv": 1820
+      },
+      {
+        "iso3": "PRK",
+        "tiv": 870
+      }
+    ]
+  },
+  {
+    "iso3": "GBR",
+    "decade": 1990,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "SAU",
+        "tiv": 7550
+      },
+      {
+        "iso3": "ARE",
+        "tiv": 3230
+      },
+      {
+        "iso3": "KWT",
+        "tiv": 2300
+      },
+      {
+        "iso3": "OMN",
+        "tiv": 2230
+      }
+    ]
+  },
+  {
+    "iso3": "USA",
+    "decade": 2000,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "SAU",
+        "tiv": 8970
+      },
+      {
+        "iso3": "ISR",
+        "tiv": 8330
+      },
+      {
+        "iso3": "ARE",
+        "tiv": 6860
+      },
+      {
+        "iso3": "EGY",
+        "tiv": 5490
+      },
+      {
+        "iso3": "JPN",
+        "tiv": 4180
+      }
+    ]
+  },
+  {
+    "iso3": "DEU",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 370
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "GRC",
+        "tiv": 3340
+      },
+      {
+        "iso3": "TUR",
+        "tiv": 2840
+      },
+      {
+        "iso3": "KOR",
+        "tiv": 2140
+      },
+      {
+        "iso3": "ISR",
+        "tiv": 2060
+      },
+      {
+        "iso3": "SAU",
+        "tiv": 2040
+      }
+    ]
+  },
+  {
+    "iso3": "RUS",
+    "decade": 2020,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "IND",
+        "tiv": 9550
+      },
+      {
+        "iso3": "SYR",
+        "tiv": 4260
+      },
+      {
+        "iso3": "DZA",
+        "tiv": 2650
+      },
+      {
+        "iso3": "VNM",
+        "tiv": 2140
+      },
+      {
+        "iso3": "EGY",
+        "tiv": 1850
+      }
+    ]
+  },
+  {
+    "iso3": "FRA",
+    "decade": 1970,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "IND",
+        "tiv": 3860
+      },
+      {
+        "iso3": "TWN",
+        "tiv": 3150
+      },
+      {
+        "iso3": "GRC",
+        "tiv": 2330
+      },
+      {
+        "iso3": "SAU",
+        "tiv": 2250
+      },
+      {
+        "iso3": "PAK",
+        "tiv": 2050
+      }
+    ]
+  },
+  {
+    "iso3": "FRA",
+    "decade": 2000,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "ARE",
+        "tiv": 5730
+      },
+      {
+        "iso3": "EGY",
+        "tiv": 4880
+      },
+      {
+        "iso3": "SAU",
+        "tiv": 4520
+      },
+      {
+        "iso3": "IND",
+        "tiv": 3870
+      },
+      {
+        "iso3": "GRC",
+        "tiv": 2970
+      }
+    ]
+  },
+  {
+    "iso3": "FRA",
+    "decade": 2020,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "IND",
+        "tiv": 5280
+      },
+      {
+        "iso3": "SAU",
+        "tiv": 3370
+      },
+      {
+        "iso3": "QAT",
+        "tiv": 3300
+      },
+      {
+        "iso3": "ARE",
+        "tiv": 2960
+      },
+      {
+        "iso3": "IDN",
+        "tiv": 2450
+      }
+    ]
+  },
+  {
+    "iso3": "GBR",
+    "decade": 1960,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "SAU",
+        "tiv": 3500
+      },
+      {
+        "iso3": "AUS",
+        "tiv": 2600
+      },
+      {
+        "iso3": "IND",
+        "tiv": 1240
+      }
+    ]
+  },
+  {
+    "iso3": "GBR",
+    "decade": 1970,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "SAU",
+        "tiv": 6800
+      },
+      {
+        "iso3": "OMN",
+        "tiv": 2170
+      },
+      {
+        "iso3": "ARE",
+        "tiv": 1600
+      },
+      {
+        "iso3": "AUS",
+        "tiv": 1540
+      }
+    ]
+  },
+  {
+    "iso3": "GBR",
+    "decade": 1980,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "SAU",
+        "tiv": 6660
+      },
+      {
+        "iso3": "ARE",
+        "tiv": 3140
+      },
+      {
+        "iso3": "OMN",
+        "tiv": 2210
+      }
+    ]
+  },
+  {
+    "iso3": "GBR",
+    "decade": 2010,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "SAU",
+        "tiv": 8160
+      },
+      {
+        "iso3": "ARE",
+        "tiv": 3130
+      },
+      {
+        "iso3": "KWT",
+        "tiv": 2330
+      },
+      {
+        "iso3": "OMN",
+        "tiv": 2200
+      },
+      {
+        "iso3": "QAT",
+        "tiv": 1100
+      }
+    ]
+  },
+  {
+    "iso3": "DEU",
+    "decade": 1950,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 6810
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "TUR",
+        "tiv": 820
+      }
+    ]
+  },
+  {
+    "iso3": "DEU",
+    "decade": 1960,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 3740
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "GRC",
+        "tiv": 3020
+      },
+      {
+        "iso3": "TUR",
+        "tiv": 2870
+      },
+      {
+        "iso3": "ISR",
+        "tiv": 2070
+      }
+    ]
+  },
+  {
+    "iso3": "DEU",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 3980
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "GRC",
+        "tiv": 3450
+      },
+      {
+        "iso3": "TUR",
+        "tiv": 2780
+      },
+      {
+        "iso3": "ISR",
+        "tiv": 2110
+      }
+    ]
+  },
+  {
+    "iso3": "DEU",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 4250
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "GRC",
+        "tiv": 3380
+      },
+      {
+        "iso3": "TUR",
+        "tiv": 2760
+      },
+      {
+        "iso3": "ISR",
+        "tiv": 2120
+      }
+    ]
+  },
+  {
+    "iso3": "DEU",
+    "decade": 2000,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "GRC",
+        "tiv": 3450
+      },
+      {
+        "iso3": "TUR",
+        "tiv": 2780
+      },
+      {
+        "iso3": "ISR",
+        "tiv": 2110
+      },
+      {
+        "iso3": "KOR",
+        "tiv": 2080
+      },
+      {
+        "iso3": "SAU",
+        "tiv": 1980
+      }
+    ]
+  },
+  {
+    "iso3": "DEU",
+    "decade": 2010,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "GRC",
+        "tiv": 3380
+      },
+      {
+        "iso3": "TUR",
+        "tiv": 2780
+      },
+      {
+        "iso3": "ISR",
+        "tiv": 2120
+      },
+      {
+        "iso3": "KOR",
+        "tiv": 2100
+      },
+      {
+        "iso3": "SAU",
+        "tiv": 2000
+      }
+    ]
+  },
+  {
+    "iso3": "CHN",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "RUS",
+        "tiv": 10020
+      },
+      {
+        "iso3": "UKR",
+        "tiv": 3160
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "PAK",
+        "tiv": 3850
+      },
+      {
+        "iso3": "MMR",
+        "tiv": 2040
+      },
+      {
+        "iso3": "IRN",
+        "tiv": 2020
+      },
+      {
+        "iso3": "SDN",
+        "tiv": 1880
+      },
+      {
+        "iso3": "BGD",
+        "tiv": 1770
+      }
+    ]
+  },
+  {
+    "iso3": "CHN",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "RUS",
+        "tiv": 6370
+      },
+      {
+        "iso3": "UKR",
+        "tiv": 920
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "PAK",
+        "tiv": 3840
+      },
+      {
+        "iso3": "MMR",
+        "tiv": 1970
+      },
+      {
+        "iso3": "SDN",
+        "tiv": 1940
+      },
+      {
+        "iso3": "BGD",
+        "tiv": 1820
+      },
+      {
+        "iso3": "VEN",
+        "tiv": 1530
+      }
+    ]
+  },
+  {
+    "iso3": "CHN",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "RUS",
+        "tiv": 790
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "PAK",
+        "tiv": 1850
+      },
+      {
+        "iso3": "MMR",
+        "tiv": 980
+      },
+      {
+        "iso3": "BGD",
+        "tiv": 910
+      },
+      {
+        "iso3": "DZA",
+        "tiv": 650
+      },
+      {
+        "iso3": "SDN",
+        "tiv": 560
+      }
+    ]
+  },
+  {
+    "iso3": "ITA",
+    "decade": 1960,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 1970
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "IND",
+        "tiv": 400
+      }
+    ]
+  },
+  {
+    "iso3": "ITA",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 230
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "LBY",
+        "tiv": 1860
+      },
+      {
+        "iso3": "IND",
+        "tiv": 1280
+      },
+      {
+        "iso3": "PER",
+        "tiv": 970
+      }
+    ]
+  },
+  {
+    "iso3": "ITA",
+    "decade": 1980,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "PER",
+        "tiv": 1610
+      },
+      {
+        "iso3": "LBY",
+        "tiv": 1360
+      },
+      {
+        "iso3": "IND",
+        "tiv": 1330
+      }
+    ]
+  },
+  {
+    "iso3": "ITA",
+    "decade": 1990,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "PER",
+        "tiv": 1620
+      },
+      {
+        "iso3": "IND",
+        "tiv": 1290
+      },
+      {
+        "iso3": "EGY",
+        "tiv": 830
+      }
+    ]
+  },
+  {
+    "iso3": "ITA",
+    "decade": 2000,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "EGY",
+        "tiv": 1730
+      },
+      {
+        "iso3": "ARE",
+        "tiv": 1320
+      },
+      {
+        "iso3": "IND",
+        "tiv": 1290
+      },
+      {
+        "iso3": "PER",
+        "tiv": 130
+      }
+    ]
+  },
+  {
+    "iso3": "ITA",
+    "decade": 2010,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "EGY",
+        "tiv": 1710
+      },
+      {
+        "iso3": "ARE",
+        "tiv": 1270
+      },
+      {
+        "iso3": "IND",
+        "tiv": 140
+      }
+    ]
+  },
+  {
+    "iso3": "ITA",
+    "decade": 2020,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "EGY",
+        "tiv": 820
+      },
+      {
+        "iso3": "ARE",
+        "tiv": 650
+      }
+    ]
+  },
+  {
+    "iso3": "SWE",
+    "decade": 1980,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "IND",
+        "tiv": 750
+      }
+    ]
+  },
+  {
+    "iso3": "SWE",
+    "decade": 1990,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "IND",
+        "tiv": 1770
+      },
+      {
+        "iso3": "THA",
+        "tiv": 840
+      }
+    ]
+  },
+  {
+    "iso3": "SWE",
+    "decade": 2000,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "THA",
+        "tiv": 2740
+      },
+      {
+        "iso3": "IND",
+        "tiv": 1820
+      },
+      {
+        "iso3": "CZE",
+        "tiv": 920
+      }
+    ]
+  },
+  {
+    "iso3": "SWE",
+    "decade": 2010,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "THA",
+        "tiv": 2780
+      },
+      {
+        "iso3": "BRA",
+        "tiv": 1900
+      },
+      {
+        "iso3": "IND",
+        "tiv": 1810
+      },
+      {
+        "iso3": "CZE",
+        "tiv": 910
+      }
+    ]
+  },
+  {
+    "iso3": "SWE",
+    "decade": 2020,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "BRA",
+        "tiv": 1620
+      },
+      {
+        "iso3": "THA",
+        "tiv": 1440
+      },
+      {
+        "iso3": "IND",
+        "tiv": 880
+      },
+      {
+        "iso3": "FIN",
+        "tiv": 740
+      },
+      {
+        "iso3": "UKR",
+        "tiv": 590
+      }
+    ]
+  },
+  {
+    "iso3": "ISR",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 16950
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 2060
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "SGP",
+        "tiv": 1320
+      },
+      {
+        "iso3": "COL",
+        "tiv": 1290
+      },
+      {
+        "iso3": "IND",
+        "tiv": 280
+      }
+    ]
+  },
+  {
+    "iso3": "ISR",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 8330
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 2110
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "IND",
+        "tiv": 2690
+      },
+      {
+        "iso3": "COL",
+        "tiv": 1330
+      },
+      {
+        "iso3": "SGP",
+        "tiv": 1300
+      }
+    ]
+  },
+  {
+    "iso3": "ISR",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 12150
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 2120
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "IND",
+        "tiv": 2750
+      },
+      {
+        "iso3": "AZE",
+        "tiv": 2530
+      },
+      {
+        "iso3": "SGP",
+        "tiv": 1280
+      },
+      {
+        "iso3": "COL",
+        "tiv": 1280
+      },
+      {
+        "iso3": "MAR",
+        "tiv": 210
+      }
+    ]
+  },
+  {
+    "iso3": "ISR",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 4030
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 1020
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "AZE",
+        "tiv": 1400
+      },
+      {
+        "iso3": "IND",
+        "tiv": 1340
+      },
+      {
+        "iso3": "MAR",
+        "tiv": 1110
+      },
+      {
+        "iso3": "SGP",
+        "tiv": 660
+      },
+      {
+        "iso3": "COL",
+        "tiv": 640
+      }
+    ]
+  },
+  {
+    "iso3": "ISR",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 16628
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 2110
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "SGP",
+        "tiv": 1320
+      }
+    ]
+  },
+  {
+    "iso3": "ISR",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 18880
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 2120
+      }
+    ],
+    "topRecipients": [
+      {
+        "iso3": "SGP",
+        "tiv": 1270
+      }
+    ]
+  },
+  {
+    "iso3": "NLD",
+    "decade": 1950,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "IDN",
+        "tiv": 1570
+      }
+    ]
+  },
+  {
+    "iso3": "NLD",
+    "decade": 1960,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "IDN",
+        "tiv": 190
+      }
+    ]
+  },
+  {
+    "iso3": "NLD",
+    "decade": 1990,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "TUR",
+        "tiv": 1280
+      },
+      {
+        "iso3": "GRC",
+        "tiv": 1220
+      }
+    ]
+  },
+  {
+    "iso3": "NLD",
+    "decade": 2000,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "TUR",
+        "tiv": 1310
+      },
+      {
+        "iso3": "GRC",
+        "tiv": 1180
+      }
+    ]
+  },
+  {
+    "iso3": "NLD",
+    "decade": 2010,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "TUR",
+        "tiv": 770
+      },
+      {
+        "iso3": "GRC",
+        "tiv": 730
+      }
+    ]
+  },
+  {
+    "iso3": "NLD",
+    "decade": 2020,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "UKR",
+        "tiv": 910
+      }
+    ]
+  },
+  {
+    "iso3": "ESP",
+    "decade": 2000,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "SAU",
+        "tiv": 1180
+      }
+    ]
+  },
+  {
+    "iso3": "ESP",
+    "decade": 2010,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "AUS",
+        "tiv": 2170
+      },
+      {
+        "iso3": "SAU",
+        "tiv": 1200
+      },
+      {
+        "iso3": "TUR",
+        "tiv": 800
+      }
+    ]
+  },
+  {
+    "iso3": "ESP",
+    "decade": 2020,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "AUS",
+        "tiv": 1110
+      },
+      {
+        "iso3": "SAU",
+        "tiv": 620
+      },
+      {
+        "iso3": "TUR",
+        "tiv": 400
+      }
+    ]
+  },
+  {
+    "iso3": "UKR",
+    "decade": 1990,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "CHN",
+        "tiv": 610
+      }
+    ]
+  },
+  {
+    "iso3": "UKR",
+    "decade": 2000,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "CHN",
+        "tiv": 3160
+      },
+      {
+        "iso3": "PAK",
+        "tiv": 900
+      }
+    ]
+  },
+  {
+    "iso3": "UKR",
+    "decade": 2010,
+    "topSuppliers": [],
+    "topRecipients": [
+      {
+        "iso3": "CHN",
+        "tiv": 920
+      },
+      {
+        "iso3": "PAK",
+        "tiv": 100
       }
     ]
   },
@@ -341,7 +2447,11 @@
     "topSuppliers": [
       {
         "iso3": "SUN",
-        "tiv": 1240
+        "tiv": 3680
+      },
+      {
+        "iso3": "GBR",
+        "tiv": 590
       }
     ],
     "topRecipients": []
@@ -352,7 +2462,7 @@
     "topSuppliers": [
       {
         "iso3": "SUN",
-        "tiv": 3020
+        "tiv": 8010
       }
     ],
     "topRecipients": []
@@ -363,7 +2473,11 @@
     "topSuppliers": [
       {
         "iso3": "SUN",
-        "tiv": 2960
+        "tiv": 5010
+      },
+      {
+        "iso3": "USA",
+        "tiv": 1140
       }
     ],
     "topRecipients": []
@@ -374,7 +2488,7 @@
     "topSuppliers": [
       {
         "iso3": "SUN",
-        "tiv": 300
+        "tiv": 1840
       }
     ],
     "topRecipients": []
@@ -385,7 +2499,7 @@
     "topSuppliers": [
       {
         "iso3": "SUN",
-        "tiv": 1950
+        "tiv": 6020
       }
     ],
     "topRecipients": []
@@ -396,7 +2510,7 @@
     "topSuppliers": [
       {
         "iso3": "SUN",
-        "tiv": 3876
+        "tiv": 7806
       }
     ],
     "topRecipients": []
@@ -407,7 +2521,7 @@
     "topSuppliers": [
       {
         "iso3": "SUN",
-        "tiv": 3030
+        "tiv": 6680
       }
     ],
     "topRecipients": []
@@ -418,7 +2532,7 @@
     "topSuppliers": [
       {
         "iso3": "SUN",
-        "tiv": 1455
+        "tiv": 3185
       },
       {
         "iso3": "CUB",
@@ -433,7 +2547,7 @@
     "topSuppliers": [
       {
         "iso3": "SUN",
-        "tiv": 1095
+        "tiv": 4535
       },
       {
         "iso3": "USA",
@@ -452,11 +2566,19 @@
     "topSuppliers": [
       {
         "iso3": "USA",
-        "tiv": 3781
+        "tiv": 9731
       },
       {
         "iso3": "DEU",
-        "tiv": 356
+        "tiv": 2436
+      },
+      {
+        "iso3": "NLD",
+        "tiv": 910
+      },
+      {
+        "iso3": "SWE",
+        "tiv": 590
       },
       {
         "iso3": "GBR",
@@ -471,66 +2593,15 @@
     "topSuppliers": [
       {
         "iso3": "USA",
-        "tiv": 2350
+        "tiv": 9530
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 2070
       },
       {
         "iso3": "FRA",
         "tiv": 1080
-      }
-    ],
-    "topRecipients": []
-  },
-  {
-    "iso3": "ISR",
-    "decade": 1970,
-    "topSuppliers": [
-      {
-        "iso3": "USA",
-        "tiv": 5398
-      }
-    ],
-    "topRecipients": []
-  },
-  {
-    "iso3": "ISR",
-    "decade": 1980,
-    "topSuppliers": [
-      {
-        "iso3": "USA",
-        "tiv": 3600
-      }
-    ],
-    "topRecipients": []
-  },
-  {
-    "iso3": "ISR",
-    "decade": 1990,
-    "topSuppliers": [
-      {
-        "iso3": "USA",
-        "tiv": 2200
-      }
-    ],
-    "topRecipients": []
-  },
-  {
-    "iso3": "ISR",
-    "decade": 2010,
-    "topSuppliers": [
-      {
-        "iso3": "USA",
-        "tiv": 4500
-      }
-    ],
-    "topRecipients": []
-  },
-  {
-    "iso3": "ISR",
-    "decade": 2020,
-    "topSuppliers": [
-      {
-        "iso3": "USA",
-        "tiv": 330
       }
     ],
     "topRecipients": []
@@ -552,7 +2623,11 @@
     "topSuppliers": [
       {
         "iso3": "USA",
-        "tiv": 480
+        "tiv": 1780
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 860
       }
     ],
     "topRecipients": []
@@ -562,8 +2637,16 @@
     "decade": 1960,
     "topSuppliers": [
       {
+        "iso3": "FRA",
+        "tiv": 2100
+      },
+      {
         "iso3": "USA",
-        "tiv": 720
+        "tiv": 2030
+      },
+      {
+        "iso3": "CHN",
+        "tiv": 1440
       }
     ],
     "topRecipients": []
@@ -574,7 +2657,19 @@
     "topSuppliers": [
       {
         "iso3": "SUN",
-        "tiv": 1740
+        "tiv": 8610
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 3750
+      },
+      {
+        "iso3": "GBR",
+        "tiv": 1240
+      },
+      {
+        "iso3": "ITA",
+        "tiv": 400
       }
     ],
     "topRecipients": []
@@ -585,7 +2680,7 @@
     "topSuppliers": [
       {
         "iso3": "USA",
-        "tiv": 480
+        "tiv": 9350
       }
     ],
     "topRecipients": []
@@ -596,7 +2691,7 @@
     "topSuppliers": [
       {
         "iso3": "USA",
-        "tiv": 2280
+        "tiv": 9560
       }
     ],
     "topRecipients": []
@@ -606,8 +2701,16 @@
     "decade": 1960,
     "topSuppliers": [
       {
+        "iso3": "USA",
+        "tiv": 6040
+      },
+      {
         "iso3": "SUN",
-        "tiv": 500
+        "tiv": 3660
+      },
+      {
+        "iso3": "CHN",
+        "tiv": 1230
       }
     ],
     "topRecipients": []
@@ -618,7 +2721,15 @@
     "topSuppliers": [
       {
         "iso3": "USA",
-        "tiv": 2760
+        "tiv": 16330
+      },
+      {
+        "iso3": "GBR",
+        "tiv": 6800
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 2250
       }
     ],
     "topRecipients": []
@@ -629,7 +2740,23 @@
     "topSuppliers": [
       {
         "iso3": "USA",
-        "tiv": 2880
+        "tiv": 17950
+      },
+      {
+        "iso3": "GBR",
+        "tiv": 7550
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 4960
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 2040
+      },
+      {
+        "iso3": "CHN",
+        "tiv": 180
       }
     ],
     "topRecipients": []
@@ -639,12 +2766,24 @@
     "decade": 2010,
     "topSuppliers": [
       {
-        "iso3": "FRA",
-        "tiv": 3750
+        "iso3": "USA",
+        "tiv": 27030
       },
       {
-        "iso3": "USA",
-        "tiv": 3360
+        "iso3": "FRA",
+        "tiv": 9400
+      },
+      {
+        "iso3": "GBR",
+        "tiv": 8160
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 2000
+      },
+      {
+        "iso3": "ESP",
+        "tiv": 1200
       }
     ],
     "topRecipients": []
@@ -655,29 +2794,23 @@
     "topSuppliers": [
       {
         "iso3": "GBR",
-        "tiv": 5400
-      }
-    ],
-    "topRecipients": []
-  },
-  {
-    "iso3": "CHN",
-    "decade": 1990,
-    "topSuppliers": [
+        "tiv": 12200
+      },
       {
-        "iso3": "RUS",
-        "tiv": 2052
-      }
-    ],
-    "topRecipients": []
-  },
-  {
-    "iso3": "CHN",
-    "decade": 2000,
-    "topSuppliers": [
+        "iso3": "USA",
+        "tiv": 8970
+      },
       {
-        "iso3": "RUS",
-        "tiv": 1920
+        "iso3": "FRA",
+        "tiv": 4520
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 1980
+      },
+      {
+        "iso3": "ESP",
+        "tiv": 1180
       }
     ],
     "topRecipients": []
@@ -688,7 +2821,23 @@
     "topSuppliers": [
       {
         "iso3": "RUS",
-        "tiv": 1920
+        "tiv": 15070
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 3870
+      },
+      {
+        "iso3": "ISR",
+        "tiv": 2690
+      },
+      {
+        "iso3": "SWE",
+        "tiv": 1820
+      },
+      {
+        "iso3": "ITA",
+        "tiv": 1290
       }
     ],
     "topRecipients": []
@@ -699,7 +2848,3499 @@
     "topSuppliers": [
       {
         "iso3": "RUS",
-        "tiv": 1728
+        "tiv": 20398
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 10180
+      },
+      {
+        "iso3": "ISR",
+        "tiv": 2750
+      },
+      {
+        "iso3": "USA",
+        "tiv": 2030
+      },
+      {
+        "iso3": "SWE",
+        "tiv": 1810
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "REI",
+    "decade": 1910,
+    "topSuppliers": [
+      {
+        "iso3": "GBR",
+        "tiv": 1870
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 840
+      },
+      {
+        "iso3": "USA",
+        "tiv": 460
+      },
+      {
+        "iso3": "JAI",
+        "tiv": 420
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "IFA",
+    "decade": 1910,
+    "topSuppliers": [
+      {
+        "iso3": "GBR",
+        "tiv": 1050
+      },
+      {
+        "iso3": "USA",
+        "tiv": 1010
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 790
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "SRB",
+    "decade": 1910,
+    "topSuppliers": [
+      {
+        "iso3": "GBR",
+        "tiv": 310
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "ROU",
+    "decade": 1910,
+    "topSuppliers": [
+      {
+        "iso3": "GBR",
+        "tiv": 360
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "SUN",
+    "decade": 1920,
+    "topSuppliers": [
+      {
+        "iso3": "DEU",
+        "tiv": 1200
+      },
+      {
+        "iso3": "USA",
+        "tiv": 370
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "JAI",
+    "decade": 1920,
+    "topSuppliers": [
+      {
+        "iso3": "GBR",
+        "tiv": 590
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "CSR",
+    "decade": 1920,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 310
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "CSR",
+    "decade": 1930,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 1340
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "ESP",
+    "decade": 1930,
+    "topSuppliers": [
+      {
+        "iso3": "DEU",
+        "tiv": 1260
+      },
+      {
+        "iso3": "SUN",
+        "tiv": 1060
+      },
+      {
+        "iso3": "IFA",
+        "tiv": 850
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "AUT",
+    "decade": 1930,
+    "topSuppliers": [
+      {
+        "iso3": "DEU",
+        "tiv": 200
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "FRA",
+    "decade": 1940,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 6380
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "CSR",
+    "decade": 1940,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 7480
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "AUS",
+    "decade": 1940,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 3790
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "JAI",
+    "decade": 1930,
+    "topSuppliers": [
+      {
+        "iso3": "NAZ",
+        "tiv": 150
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "DEU",
+    "decade": 1940,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 1530
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "JPN",
+    "decade": 1940,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 1750
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "JPN",
+    "decade": 1950,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 4600
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "DDR",
+    "decade": 1940,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 2030
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "CHN",
+    "decade": 1940,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 2500
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "ISR",
+    "decade": 1940,
+    "topSuppliers": [
+      {
+        "iso3": "CSK",
+        "tiv": 700
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "JOR",
+    "decade": 1940,
+    "topSuppliers": [
+      {
+        "iso3": "GBR",
+        "tiv": 760
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "JOR",
+    "decade": 1950,
+    "topSuppliers": [
+      {
+        "iso3": "GBR",
+        "tiv": 220
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "EGY",
+    "decade": 1940,
+    "topSuppliers": [
+      {
+        "iso3": "GBR",
+        "tiv": 810
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "IRQ",
+    "decade": 1940,
+    "topSuppliers": [
+      {
+        "iso3": "GBR",
+        "tiv": 570
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "IRQ",
+    "decade": 1950,
+    "topSuppliers": [
+      {
+        "iso3": "GBR",
+        "tiv": 1360
+      },
+      {
+        "iso3": "SUN",
+        "tiv": 900
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "ITA",
+    "decade": 1940,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 690
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "ITA",
+    "decade": 1950,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 4120
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "GRC",
+    "decade": 1940,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 630
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "GRC",
+    "decade": 1950,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 4710
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "TUR",
+    "decade": 1940,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 570
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "TUR",
+    "decade": 1950,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 5540
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 820
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "KOR",
+    "decade": 1950,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 12000
+      },
+      {
+        "iso3": "GBR",
+        "tiv": 780
+      },
+      {
+        "iso3": "AUS",
+        "tiv": 400
+      },
+      {
+        "iso3": "CAN",
+        "tiv": 340
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "PRK",
+    "decade": 1950,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 2550
+      },
+      {
+        "iso3": "CHN",
+        "tiv": 1360
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "TUR",
+    "decade": 1960,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 5970
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 2870
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "TUR",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 4840
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 2780
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "GRC",
+    "decade": 1960,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 4700
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 3020
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "GRC",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 3970
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 3450
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 2330
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "JPN",
+    "decade": 1960,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 6930
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "JPN",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 5900
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "TWN",
+    "decade": 1950,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 3950
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "TWN",
+    "decade": 1960,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 6660
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 1340
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "TWN",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 6640
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 3150
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "TWN",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 3800
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 3190
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "AUS",
+    "decade": 1960,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 5810
+      },
+      {
+        "iso3": "GBR",
+        "tiv": 2600
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "AUS",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 5880
+      },
+      {
+        "iso3": "GBR",
+        "tiv": 1540
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "AUS",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 3900
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "DDR",
+    "decade": 1950,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 3950
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "DDR",
+    "decade": 1960,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 4010
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "DDR",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 4080
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "DDR",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 3950
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "DDR",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 460
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "POL",
+    "decade": 1950,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 3550
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "POL",
+    "decade": 1960,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 3530
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "POL",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 3450
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "POL",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 3570
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "POL",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 840
+      },
+      {
+        "iso3": "SUN",
+        "tiv": 300
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "CSK",
+    "decade": 1950,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 2930
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "CSK",
+    "decade": 1960,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 3020
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "CSK",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 3030
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "CSK",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 2940
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "CSK",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 360
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "HUN",
+    "decade": 1950,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 2500
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "HUN",
+    "decade": 1960,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 2460
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "HUN",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 2540
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "HUN",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 2510
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "HUN",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 250
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "ROU",
+    "decade": 1950,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 2000
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "ROU",
+    "decade": 1960,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 2030
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "ROU",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 1970
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "ROU",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 1220
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "BGR",
+    "decade": 1950,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 1960
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "BGR",
+    "decade": 1960,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 2020
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "BGR",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 2000
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "BGR",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 1980
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "BGR",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 240
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "VNM",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 4450
+      },
+      {
+        "iso3": "SUN",
+        "tiv": 4190
+      },
+      {
+        "iso3": "CHN",
+        "tiv": 1200
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "THA",
+    "decade": 1960,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 1770
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "THA",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 1180
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "PHL",
+    "decade": 1940,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 460
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "PHL",
+    "decade": 1950,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 1490
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "PHL",
+    "decade": 1960,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 1520
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "PHL",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 1470
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "PHL",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 1490
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "PHL",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 330
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "IRQ",
+    "decade": 1960,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 4420
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "IRQ",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 4550
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "IRQ",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "FRA",
+        "tiv": 13000
+      },
+      {
+        "iso3": "SUN",
+        "tiv": 9830
+      },
+      {
+        "iso3": "CHN",
+        "tiv": 2550
+      },
+      {
+        "iso3": "USA",
+        "tiv": 1080
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "IRQ",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "FRA",
+        "tiv": 1280
+      },
+      {
+        "iso3": "SUN",
+        "tiv": 430
+      },
+      {
+        "iso3": "CHN",
+        "tiv": 380
+      },
+      {
+        "iso3": "USA",
+        "tiv": 120
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "IRN",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 1220
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "IRN",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 3240
+      },
+      {
+        "iso3": "RUS",
+        "tiv": 1770
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "LBY",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 4000
+      },
+      {
+        "iso3": "ITA",
+        "tiv": 1860
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "LBY",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 4080
+      },
+      {
+        "iso3": "ITA",
+        "tiv": 1360
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "LBY",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 760
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "EGY",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 17180
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "EGY",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 6470
+      },
+      {
+        "iso3": "ITA",
+        "tiv": 830
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "AFG",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 930
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "AFG",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 4730
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "PAK",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 5370
+      },
+      {
+        "iso3": "USA",
+        "tiv": 2810
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 2150
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "PAK",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 3830
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 2080
+      },
+      {
+        "iso3": "USA",
+        "tiv": 370
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "SAU",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 19600
+      },
+      {
+        "iso3": "GBR",
+        "tiv": 6660
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 4610
+      },
+      {
+        "iso3": "CHN",
+        "tiv": 1000
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "IND",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 7100
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 3860
+      },
+      {
+        "iso3": "ITA",
+        "tiv": 1280
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "IND",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 7040
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 3790
+      },
+      {
+        "iso3": "ITA",
+        "tiv": 1330
+      },
+      {
+        "iso3": "SWE",
+        "tiv": 750
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "IND",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "RUS",
+        "tiv": 16000
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 3750
+      },
+      {
+        "iso3": "SWE",
+        "tiv": 1770
+      },
+      {
+        "iso3": "ITA",
+        "tiv": 1290
+      },
+      {
+        "iso3": "SUN",
+        "tiv": 1280
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "CUB",
+    "decade": 1960,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 2020
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "CUB",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 410
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "AGO",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 750
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "ETH",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 960
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "ETH",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 3140
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "ETH",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 630
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "PRK",
+    "decade": 1960,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 1490
+      },
+      {
+        "iso3": "CHN",
+        "tiv": 880
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "PRK",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 1490
+      },
+      {
+        "iso3": "CHN",
+        "tiv": 920
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "PRK",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 1530
+      },
+      {
+        "iso3": "CHN",
+        "tiv": 900
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "PRK",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 870
+      },
+      {
+        "iso3": "SUN",
+        "tiv": 290
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "VNM",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 2170
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "VNM",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "RUS",
+        "tiv": 6190
+      },
+      {
+        "iso3": "SUN",
+        "tiv": 470
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "DZA",
+    "decade": 1960,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 2010
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "DZA",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 2510
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "DZA",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "SUN",
+        "tiv": 2450
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "DZA",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "RUS",
+        "tiv": 7390
+      },
+      {
+        "iso3": "SUN",
+        "tiv": 530
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "DZA",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "RUS",
+        "tiv": 5910
+      },
+      {
+        "iso3": "CHN",
+        "tiv": 1280
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 790
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "VNM",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "RUS",
+        "tiv": 4820
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "HRV",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "DEU",
+        "tiv": 390
+      },
+      {
+        "iso3": "USA",
+        "tiv": 210
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "BOS",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 180
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "YUG",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 200
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "POL",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 3830
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "CZE",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 390
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "CZE",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "SWE",
+        "tiv": 920
+      },
+      {
+        "iso3": "USA",
+        "tiv": 220
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "AFG",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 3680
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "AFG",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 6230
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "AFG",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 1210
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "PAK",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 3850
+      },
+      {
+        "iso3": "USA",
+        "tiv": 3440
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 2080
+      },
+      {
+        "iso3": "UKR",
+        "tiv": 900
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "PAK",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 3840
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 1270
+      },
+      {
+        "iso3": "USA",
+        "tiv": 1170
+      },
+      {
+        "iso3": "UKR",
+        "tiv": 100
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "IRQ",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 3450
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "IRQ",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 4290
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "IRQ",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 330
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "SAU",
+    "decade": 1960,
+    "topSuppliers": [
+      {
+        "iso3": "GBR",
+        "tiv": 3500
+      },
+      {
+        "iso3": "USA",
+        "tiv": 2630
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "SAU",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 14200
+      },
+      {
+        "iso3": "GBR",
+        "tiv": 4960
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 3370
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 1020
+      },
+      {
+        "iso3": "ESP",
+        "tiv": 620
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "KOR",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 3910
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "KOR",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 4090
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 2140
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "KOR",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 3990
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 2080
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "KOR",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 9050
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 2100
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "KOR",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 4980
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 1070
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "JPN",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 4270
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "JPN",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 4150
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "JPN",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 4180
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "JPN",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 10180
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "JPN",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 5330
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "TWN",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 3640
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 950
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "TWN",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 3610
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "TWN",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 3540
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "TWN",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 1820
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "TUR",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 3220
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 2760
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "TUR",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 3340
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 2840
+      },
+      {
+        "iso3": "NLD",
+        "tiv": 1280
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "TUR",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 3310
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 2780
+      },
+      {
+        "iso3": "NLD",
+        "tiv": 1310
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "TUR",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 3240
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 2780
+      },
+      {
+        "iso3": "ESP",
+        "tiv": 800
+      },
+      {
+        "iso3": "NLD",
+        "tiv": 770
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "TUR",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 1660
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 1420
+      },
+      {
+        "iso3": "ESP",
+        "tiv": 400
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "EGY",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 5490
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 4880
+      },
+      {
+        "iso3": "ITA",
+        "tiv": 1730
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "EGY",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 5390
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 4710
+      },
+      {
+        "iso3": "RUS",
+        "tiv": 1810
+      },
+      {
+        "iso3": "ITA",
+        "tiv": 1710
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "EGY",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 2650
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 2390
+      },
+      {
+        "iso3": "RUS",
+        "tiv": 1850
+      },
+      {
+        "iso3": "ITA",
+        "tiv": 820
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "AUS",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 3820
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "AUS",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 3870
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "AUS",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 9550
+      },
+      {
+        "iso3": "ESP",
+        "tiv": 2170
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "AUS",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 5120
+      },
+      {
+        "iso3": "ESP",
+        "tiv": 1110
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "GRC",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "DEU",
+        "tiv": 3380
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 2870
+      },
+      {
+        "iso3": "USA",
+        "tiv": 2620
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "GRC",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "DEU",
+        "tiv": 3340
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 2880
+      },
+      {
+        "iso3": "USA",
+        "tiv": 2550
+      },
+      {
+        "iso3": "NLD",
+        "tiv": 1220
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "GRC",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "DEU",
+        "tiv": 3450
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 2970
+      },
+      {
+        "iso3": "USA",
+        "tiv": 2620
+      },
+      {
+        "iso3": "NLD",
+        "tiv": 1180
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "GRC",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "DEU",
+        "tiv": 3380
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 2860
+      },
+      {
+        "iso3": "USA",
+        "tiv": 2630
+      },
+      {
+        "iso3": "NLD",
+        "tiv": 730
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "GRC",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "DEU",
+        "tiv": 1660
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 1420
+      },
+      {
+        "iso3": "USA",
+        "tiv": 1280
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "ARE",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 6840
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 5910
+      },
+      {
+        "iso3": "GBR",
+        "tiv": 3230
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "ARE",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 6860
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 5730
+      },
+      {
+        "iso3": "GBR",
+        "tiv": 3220
+      },
+      {
+        "iso3": "ITA",
+        "tiv": 1320
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "ARE",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 13800
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 5760
+      },
+      {
+        "iso3": "GBR",
+        "tiv": 3130
+      },
+      {
+        "iso3": "ITA",
+        "tiv": 1270
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "ARE",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 7430
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 2960
+      },
+      {
+        "iso3": "GBR",
+        "tiv": 1610
+      },
+      {
+        "iso3": "ITA",
+        "tiv": 650
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "KWT",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 3480
+      },
+      {
+        "iso3": "GBR",
+        "tiv": 2300
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "KWT",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 3480
+      },
+      {
+        "iso3": "GBR",
+        "tiv": 2260
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "KWT",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 3580
+      },
+      {
+        "iso3": "GBR",
+        "tiv": 2330
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "KWT",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 1760
+      },
+      {
+        "iso3": "GBR",
+        "tiv": 1160
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "POL",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 3500
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "POL",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 1800
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "MAR",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "FRA",
+        "tiv": 1930
+      },
+      {
+        "iso3": "USA",
+        "tiv": 1280
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "MAR",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "FRA",
+        "tiv": 1870
+      },
+      {
+        "iso3": "USA",
+        "tiv": 1620
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "MAR",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "FRA",
+        "tiv": 1910
+      },
+      {
+        "iso3": "USA",
+        "tiv": 1550
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "MAR",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "FRA",
+        "tiv": 1920
+      },
+      {
+        "iso3": "USA",
+        "tiv": 1620
+      },
+      {
+        "iso3": "ISR",
+        "tiv": 210
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "MAR",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "ISR",
+        "tiv": 1110
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 940
+      },
+      {
+        "iso3": "USA",
+        "tiv": 810
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "COL",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "ISR",
+        "tiv": 1330
+      },
+      {
+        "iso3": "USA",
+        "tiv": 1120
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "COL",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "ISR",
+        "tiv": 1280
+      },
+      {
+        "iso3": "USA",
+        "tiv": 1070
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "COL",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "ISR",
+        "tiv": 640
+      },
+      {
+        "iso3": "USA",
+        "tiv": 540
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "BHR",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 1530
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "BHR",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 1470
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "BHR",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 730
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "QAT",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 6040
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 3320
+      },
+      {
+        "iso3": "GBR",
+        "tiv": 1100
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "QAT",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "USA",
+        "tiv": 6140
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 3300
+      },
+      {
+        "iso3": "GBR",
+        "tiv": 2800
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "IND",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "RUS",
+        "tiv": 9550
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 5280
+      },
+      {
+        "iso3": "USA",
+        "tiv": 1970
+      },
+      {
+        "iso3": "ISR",
+        "tiv": 1340
+      },
+      {
+        "iso3": "SWE",
+        "tiv": 880
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "DZA",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "RUS",
+        "tiv": 5170
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 1580
+      },
+      {
+        "iso3": "CHN",
+        "tiv": 1320
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "DZA",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "RUS",
+        "tiv": 2650
+      },
+      {
+        "iso3": "DEU",
+        "tiv": 800
+      },
+      {
+        "iso3": "CHN",
+        "tiv": 650
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "VNM",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "RUS",
+        "tiv": 4170
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "VNM",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "RUS",
+        "tiv": 2140
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "SYR",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "RUS",
+        "tiv": 6760
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "SYR",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "RUS",
+        "tiv": 4260
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "IRN",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 2020
+      },
+      {
+        "iso3": "RUS",
+        "tiv": 1610
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "VEN",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "RUS",
+        "tiv": 1070
+      },
+      {
+        "iso3": "CHN",
+        "tiv": 280
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "VEN",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 1530
+      },
+      {
+        "iso3": "RUS",
+        "tiv": 1340
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "IND",
+    "decade": 1950,
+    "topSuppliers": [
+      {
+        "iso3": "FRA",
+        "tiv": 2690
+      },
+      {
+        "iso3": "GBR",
+        "tiv": 2140
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "PAK",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 3830
+      },
+      {
+        "iso3": "FRA",
+        "tiv": 2050
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "MAR",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "FRA",
+        "tiv": 390
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "IDN",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "FRA",
+        "tiv": 570
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "IDN",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "FRA",
+        "tiv": 2450
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "ARE",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "GBR",
+        "tiv": 1600
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "ARE",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "GBR",
+        "tiv": 3140
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "OMN",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "GBR",
+        "tiv": 2170
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "OMN",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "GBR",
+        "tiv": 2210
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "OMN",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "GBR",
+        "tiv": 2230
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "OMN",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "GBR",
+        "tiv": 2150
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "OMN",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "GBR",
+        "tiv": 2200
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "OMN",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "GBR",
+        "tiv": 1130
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "PAK",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 1850
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "BGD",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 1080
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "BGD",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 1810
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "BGD",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 1820
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "BGD",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 1770
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "BGD",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 1820
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "BGD",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 910
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "MMR",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 1990
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "MMR",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 2040
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "MMR",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 1970
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "MMR",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 980
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "SDN",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 1880
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "SDN",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 1940
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "SDN",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 560
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "IRN",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 180
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "PRK",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 540
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "NGA",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 570
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "NGA",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 1090
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "NGA",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 530
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "VEN",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 130
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "ETH",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 480
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "ETH",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 990
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "ETH",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "CHN",
+        "tiv": 520
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "PER",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "ITA",
+        "tiv": 970
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "PER",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "ITA",
+        "tiv": 1610
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "PER",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "ITA",
+        "tiv": 1620
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "PER",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "ITA",
+        "tiv": 130
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "THA",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "SWE",
+        "tiv": 840
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "THA",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "SWE",
+        "tiv": 2740
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "THA",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "SWE",
+        "tiv": 2780
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "THA",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "SWE",
+        "tiv": 1440
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "BRA",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "SWE",
+        "tiv": 1900
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "BRA",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "SWE",
+        "tiv": 1620
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "CZE",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "SWE",
+        "tiv": 910
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "FIN",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "SWE",
+        "tiv": 740
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "AZE",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "ISR",
+        "tiv": 2530
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "AZE",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "ISR",
+        "tiv": 1400
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "SGP",
+    "decade": 1970,
+    "topSuppliers": [
+      {
+        "iso3": "ISR",
+        "tiv": 1320
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "SGP",
+    "decade": 1980,
+    "topSuppliers": [
+      {
+        "iso3": "ISR",
+        "tiv": 1270
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "SGP",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "ISR",
+        "tiv": 1320
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "SGP",
+    "decade": 2000,
+    "topSuppliers": [
+      {
+        "iso3": "ISR",
+        "tiv": 1300
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "SGP",
+    "decade": 2010,
+    "topSuppliers": [
+      {
+        "iso3": "ISR",
+        "tiv": 1280
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "SGP",
+    "decade": 2020,
+    "topSuppliers": [
+      {
+        "iso3": "ISR",
+        "tiv": 660
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "COL",
+    "decade": 1990,
+    "topSuppliers": [
+      {
+        "iso3": "ISR",
+        "tiv": 1290
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "IDN",
+    "decade": 1950,
+    "topSuppliers": [
+      {
+        "iso3": "NLD",
+        "tiv": 1570
+      }
+    ],
+    "topRecipients": []
+  },
+  {
+    "iso3": "IDN",
+    "decade": 1960,
+    "topSuppliers": [
+      {
+        "iso3": "NLD",
+        "tiv": 190
       }
     ],
     "topRecipients": []
