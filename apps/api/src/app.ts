@@ -1,10 +1,10 @@
-import express, { type Express } from 'express';
+import express from 'express';
 import { getMetadata, getFlows, getCountries } from './data.js';
 import flowsRouter from './routes/flows.js';
 import countriesRouter from './routes/countries.js';
 import caseStudiesRouter from './routes/caseStudies.js';
 
-export const app: Express = express();
+export const app: express.Application = express();
 
 app.use(express.json());
 

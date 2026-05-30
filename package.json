@@ -10,6 +10,7 @@
     "ingest": "pnpm --filter @arms-atlas/data exec tsx src/ingest.ts"
   },
   "devDependencies": {
+    "@types/node": "^22.19.17",
     "@typescript-eslint/eslint-plugin": "^8.0.0",
     "@typescript-eslint/parser": "^8.0.0",
     "eslint": "^9.0.0",
@@ -20,6 +21,8 @@
     "pnpm": ">=9.0.0"
   },
   "pnpm": {
-    "onlyBuiltDependencies": ["esbuild"]
+    "onlyBuiltDependencies": [
+      "esbuild"
+    ]
   }
 }
