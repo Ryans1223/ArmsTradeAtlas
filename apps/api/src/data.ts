@@ -3,8 +3,9 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import type { TradeFlow, CountryYearTotal, CountryDecadeProfile, DataMetadata, Country } from '@arms-atlas/types';
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const PROCESSED = path.resolve(__dirname, '../../../data/processed');
+// In Vercel serverless, process.cwd() = /var/task and data files are bundled there.
+// In local dev (run from monorepo root), process.cwd() is the repo root.
+const PROCESSED = path.join(process.cwd(), 'data', 'processed');
 
 function loadJson<T>(filename: string, fallback: T): T {
   const fullPath = path.join(PROCESSED, filename);
