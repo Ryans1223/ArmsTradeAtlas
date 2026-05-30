@@ -2,6 +2,7 @@
   "name": "arms-trade-atlas",
   "private": true,
   "version": "0.1.0",
+  "type": "module",
   "scripts": {
     "dev": "pnpm --parallel --filter @arms-atlas/api --filter @arms-atlas/web dev",
     "build": "pnpm --filter @arms-atlas/types build && pnpm --filter @arms-atlas/api build && pnpm --filter @arms-atlas/web build",
