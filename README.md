@@ -1,6 +1,6 @@
   # Arms Trade Atlas
 
-An interactive data journalism site visualizing global arms exports and imports from 1950 to the present, built with SIPRI Trend Indicator Value data.
+An interactive data journalism site visualizing global arms exports and imports from 1914 to the present, built with SIPRI Trend Indicator Value data.
 
 **Source:** SIPRI Arms Transfers Database, accessed 2024. TIV values are a SIPRI-defined proxy for transfer volume; they are not equivalent to financial sales prices.
 
